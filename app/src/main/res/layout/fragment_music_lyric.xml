@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.shreyas.musicsearch.viewmodel.TrackLyricViewModel" />
+
+        <import type="android.view.View" />
+    </data>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/track_lyric_card"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/item_horizontal_margin"
+        app:cardCornerRadius="@dimen/item_horizontal_margin"
+        app:cardUseCompatPadding="true">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/track_lyric_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="@dimen/dimen_8dp">
+
+            <TextView
+                android:id="@+id/track_name"
+                style="@style/CardView.Dark"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@{viewModel.trackLyric.songName}"
+                android:textSize="@dimen/project_text_16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:text="Time" />
+
+            <TextView
+                android:id="@+id/artist_name"
+                style="@style/CardView.Dark"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@{viewModel.trackLyric.artistName}"
+                android:textSize="@dimen/project_text_16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/track_name"
+                tools:text="Pink Floyd" />
+
+            <ScrollView
+                android:id="@+id/lyric_scroll_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_8dp"
+                android:fadeScrollbars="true"
+                android:scrollbars="vertical"
+                android:visibility="@{viewModel.isLoading()? View.GONE : View.VISIBLE}"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/artist_name">
+
+                <TextView
+                    android:id="@+id/track_lyric"
+                    style="@style/CardView.Dark"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@{viewModel.isError() ? @string/lyrics_not_found : viewModel.trackLyric.lyric}"
+                    android:textStyle="italic"
+                    tools:text="@string/sample_lyrics" />
+            </ScrollView>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+</layout>

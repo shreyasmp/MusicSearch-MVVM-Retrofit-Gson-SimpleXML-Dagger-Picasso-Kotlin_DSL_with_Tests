@@ -1,0 +1,5339 @@
+{
+  "meta": {
+    "totalCount": 11275,
+    "returnedCount": 79
+  },
+  "search": {
+    "query": "pink floyd",
+    "data": {
+      "albums": [
+        {
+          "type": "album",
+          "id": "alb.211396482",
+          "upc": "886445613834",
+          "shortcut": "pink-floyd/animals-columbia-legacy",
+          "href": "https://api.napster.com/v2.2/albums/alb.211396482",
+          "name": "Animals",
+          "released": "2016-01-01T00:00:00.000Z",
+          "originallyReleased": "1977-01-23T00:00:00.000Z",
+          "label": "Pink Floyd Records",
+          "copyright": "2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
+          "tags": [],
+          "discCount": 1,
+          "trackCount": 5,
+          "isExplicit": false,
+          "isSingle": false,
+          "accountPartner": "Sony",
+          "artistName": "Pink Floyd",
+          "isAvailableInHiRes": false,
+          "contributingArtists": {
+            "primaryArtist": "art.69132"
+          },
+          "discographies": {
+            "main": [
+              "art.69132"
+            ]
+          },
+          "links": {
+            "images": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211396482/images"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211396482/tracks"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211396482/posts"
+            },
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44"
+            },
+            "reviews": {
+              "ids": [
+                "reval.50142761"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/reviews/reval.50142761"
+            }
+          },
+          "isStreamable": true
+        },
+        {
+          "type": "album",
+          "id": "alb.262439",
+          "upc": "074646706329",
+          "shortcut": "pink-floyd/pulse-262439",
+          "href": "https://api.napster.com/v2.2/albums/alb.262439",
+          "name": "Pulse",
+          "released": "1995-06-06T00:00:00.000Z",
+          "originallyReleased": "1995-05-23T00:00:00.000Z",
+          "label": "Columbia Records",
+          "copyright": "",
+          "tags": [],
+          "discCount": 2,
+          "trackCount": 24,
+          "isExplicit": false,
+          "isSingle": false,
+          "accountPartner": "Sony",
+          "artistName": "Pink Floyd",
+          "isAvailableInHiRes": false,
+          "contributingArtists": {
+            "primaryArtist": "art.69132"
+          },
+          "discographies": {
+            "main": [
+              "art.69132"
+            ]
+          },
+          "links": {
+            "images": {
+              "href": "https://api.napster.com/v2.2/albums/alb.262439/images"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/albums/alb.262439/tracks"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/albums/alb.262439/posts"
+            },
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "genres": {
+              "ids": [
+                "g.44",
+                "g.42"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.44,g.42"
+            },
+            "reviews": {
+              "ids": [
+                "reval.37047319"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/reviews/reval.37047319"
+            }
+          },
+          "isStreamable": true
+        },
+        {
+          "type": "album",
+          "id": "alb.211401047",
+          "upc": "886445613247",
+          "shortcut": "pink-floyd/meddle-columbia-legacy",
+          "href": "https://api.napster.com/v2.2/albums/alb.211401047",
+          "name": "Meddle",
+          "released": "2016-01-01T00:00:00.000Z",
+          "originallyReleased": "1971-10-30T00:00:00.000Z",
+          "label": "Pink Floyd Records",
+          "copyright": "2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
+          "tags": [],
+          "discCount": 1,
+          "trackCount": 6,
+          "isExplicit": false,
+          "isSingle": false,
+          "accountPartner": "Sony",
+          "artistName": "Pink Floyd",
+          "isAvailableInHiRes": false,
+          "contributingArtists": {
+            "primaryArtist": "art.69132"
+          },
+          "discographies": {
+            "main": [
+              "art.69132"
+            ]
+          },
+          "links": {
+            "images": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211401047/images"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211401047/tracks"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211401047/posts"
+            },
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "genres": {
+              "ids": [
+                "g.44"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.44"
+            },
+            "reviews": {
+              "ids": [
+                "reval.37009159"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/reviews/reval.37009159"
+            }
+          },
+          "isStreamable": true
+        },
+        {
+          "type": "album",
+          "id": "alb.211401081",
+          "upc": "886445613841",
+          "shortcut": "pink-floyd/the-wall-columbia-legacy",
+          "href": "https://api.napster.com/v2.2/albums/alb.211401081",
+          "name": "The Wall",
+          "released": "2016-01-01T00:00:00.000Z",
+          "originallyReleased": "1979-11-30T00:00:00.000Z",
+          "label": "Pink Floyd Records",
+          "copyright": "2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
+          "tags": [],
+          "discCount": 2,
+          "trackCount": 26,
+          "isExplicit": false,
+          "isSingle": false,
+          "accountPartner": "Sony",
+          "artistName": "Pink Floyd",
+          "isAvailableInHiRes": false,
+          "contributingArtists": {
+            "primaryArtist": "art.69132"
+          },
+          "discographies": {
+            "main": [
+              "art.69132"
+            ]
+          },
+          "links": {
+            "images": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211401081/images"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211401081/tracks"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211401081/posts"
+            },
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44",
+                "g.124"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44,g.124"
+            },
+            "reviews": {
+              "ids": [
+                "reval.151664841"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/reviews/reval.151664841"
+            }
+          },
+          "isStreamable": true
+        },
+        {
+          "type": "album",
+          "id": "alb.569028612",
+          "upc": "886449125869",
+          "shortcut": "pink-floyd/sorrow-live-at-knebworth-1990-2021-edit",
+          "href": "https://api.napster.com/v2.2/albums/alb.569028612",
+          "name": "Sorrow (Live at Knebworth 1990 [2021 Edit])",
+          "released": "2021-04-02T00:00:00.000Z",
+          "originallyReleased": "2021-04-02T00:00:00.000Z",
+          "label": "Legacy Recordings",
+          "copyright": "2021 Pink Floyd (1987) Ltd., under exclusive license to Sony Music Entertainment",
+          "tags": [
+            "Single"
+          ],
+          "discCount": 1,
+          "trackCount": 1,
+          "isExplicit": false,
+          "isSingle": true,
+          "accountPartner": "Sony",
+          "artistName": "Pink Floyd",
+          "isAvailableInHiRes": false,
+          "contributingArtists": {
+            "primaryArtist": "art.69132"
+          },
+          "discographies": {
+            "singlesAndEPs": [
+              "art.69132"
+            ],
+            "others": [
+              "art.5002",
+              "art.45865",
+              "art.269830801",
+              "art.49796",
+              "art.6875117",
+              "art.9875019",
+              "art.22967715",
+              "art.25049244",
+              "art.26295266",
+              "art.26955085",
+              "art.30392215",
+              "art.30392297",
+              "art.32621429",
+              "art.33326339",
+              "art.44765877",
+              "art.220944681",
+              "art.265937662"
+            ]
+          },
+          "links": {
+            "images": {
+              "href": "https://api.napster.com/v2.2/albums/alb.569028612/images"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/albums/alb.569028612/tracks"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/albums/alb.569028612/posts"
+            },
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "genres": {
+              "ids": [
+                "g.44"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.44"
+            }
+          },
+          "isStreamable": true
+        },
+        {
+          "type": "album",
+          "id": "alb.211363534",
+          "upc": "886445613940",
+          "shortcut": "pink-floyd/echoes-the-best-of-pink-floyd-columbia-legacy",
+          "href": "https://api.napster.com/v2.2/albums/alb.211363534",
+          "name": "Echoes: The Best of Pink Floyd",
+          "released": "2016-01-01T00:00:00.000Z",
+          "originallyReleased": "2001-11-06T00:00:00.000Z",
+          "label": "Pink Floyd Records",
+          "copyright": "2016 The copyright in this compilation is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
+          "tags": [],
+          "discCount": 2,
+          "trackCount": 26,
+          "isExplicit": false,
+          "isSingle": false,
+          "accountPartner": "Sony",
+          "artistName": "Pink Floyd",
+          "isAvailableInHiRes": false,
+          "contributingArtists": {
+            "primaryArtist": "art.69132",
+            "featuredPerformer": "art.1844"
+          },
+          "discographies": {
+            "others": [
+              "art.1844",
+              "art.40688",
+              "art.69132"
+            ]
+          },
+          "links": {
+            "images": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211363534/images"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211363534/tracks"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211363534/posts"
+            },
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44",
+                "g.153"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44,g.153"
+            }
+          },
+          "isStreamable": true
+        },
+        {
+          "type": "album",
+          "id": "alb.211396465",
+          "upc": "886445613223",
+          "shortcut": "pink-floyd/ummagumma-columbia-legacy",
+          "href": "https://api.napster.com/v2.2/albums/alb.211396465",
+          "name": "Ummagumma",
+          "released": "2016-01-01T00:00:00.000Z",
+          "originallyReleased": "1969-10-25T00:00:00.000Z",
+          "label": "Pink Floyd Records",
+          "copyright": "2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
+          "tags": [],
+          "discCount": 2,
+          "trackCount": 16,
+          "isExplicit": false,
+          "isSingle": false,
+          "accountPartner": "Sony",
+          "artistName": "Pink Floyd",
+          "isAvailableInHiRes": false,
+          "contributingArtists": {
+            "primaryArtist": "art.69132"
+          },
+          "discographies": {
+            "main": [
+              "art.69132"
+            ]
+          },
+          "links": {
+            "images": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211396465/images"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211396465/tracks"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211396465/posts"
+            },
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "genres": {
+              "ids": [
+                "g.153",
+                "g.170"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.153,g.170"
+            },
+            "reviews": {
+              "ids": [
+                "reval.50142779"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/reviews/reval.50142779"
+            }
+          },
+          "isStreamable": true
+        },
+        {
+          "type": "album",
+          "id": "alb.211396509",
+          "upc": "886445613216",
+          "shortcut": "pink-floyd/more-columbia-legacy",
+          "href": "https://api.napster.com/v2.2/albums/alb.211396509",
+          "name": "More",
+          "released": "2016-01-01T00:00:00.000Z",
+          "originallyReleased": "1969-06-25T00:00:00.000Z",
+          "label": "Pink Floyd Records",
+          "copyright": "2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
+          "tags": [
+            "Soundtrack"
+          ],
+          "discCount": 1,
+          "trackCount": 13,
+          "isExplicit": false,
+          "isSingle": false,
+          "accountPartner": "Sony",
+          "artistName": "Pink Floyd",
+          "isAvailableInHiRes": false,
+          "contributingArtists": {
+            "primaryArtist": "art.69132"
+          },
+          "discographies": {
+            "main": [
+              "art.69132"
+            ]
+          },
+          "links": {
+            "images": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211396509/images"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211396509/tracks"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211396509/posts"
+            },
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "genres": {
+              "ids": [
+                "g.153",
+                "g.308"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.153,g.308"
+            },
+            "reviews": {
+              "ids": [
+                "reval.213471247"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/reviews/reval.213471247"
+            }
+          },
+          "isStreamable": true
+        },
+        {
+          "type": "album",
+          "id": "alb.211363562",
+          "upc": "886445613896",
+          "shortcut": "pink-floyd/pulse-live",
+          "href": "https://api.napster.com/v2.2/albums/alb.211363562",
+          "name": "Pulse (Live)",
+          "released": "2016-01-01T00:00:00.000Z",
+          "originallyReleased": "1995-05-23T00:00:00.000Z",
+          "label": "Pink Floyd Records",
+          "copyright": "2016 The copyright in this recording is owned by Pink Floyd (1987) Ltd., marketed and distributed by Sony Music Entertainment",
+          "tags": [],
+          "discCount": 2,
+          "trackCount": 24,
+          "isExplicit": false,
+          "isSingle": false,
+          "accountPartner": "Sony",
+          "artistName": "Pink Floyd",
+          "isAvailableInHiRes": false,
+          "contributingArtists": {
+            "primaryArtist": "art.69132"
+          },
+          "discographies": {
+            "main": [
+              "art.69132"
+            ]
+          },
+          "links": {
+            "images": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211363562/images"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211363562/tracks"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211363562/posts"
+            },
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "genres": {
+              "ids": [
+                "g.44",
+                "g.42"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.44,g.42"
+            },
+            "reviews": {
+              "ids": [
+                "reval.37008193"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/reviews/reval.37008193"
+            }
+          },
+          "isStreamable": true
+        },
+        {
+          "type": "album",
+          "id": "alb.211401109",
+          "upc": "886445613261",
+          "shortcut": "pink-floyd/the-dark-side-of-the-moon-columbia-legacy",
+          "href": "https://api.napster.com/v2.2/albums/alb.211401109",
+          "name": "The Dark Side of the Moon",
+          "released": "2016-01-01T00:00:00.000Z",
+          "originallyReleased": "1973-03-01T00:00:00.000Z",
+          "label": "Pink Floyd Records",
+          "copyright": "2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
+          "tags": [],
+          "discCount": 1,
+          "trackCount": 10,
+          "isExplicit": false,
+          "isSingle": false,
+          "accountPartner": "Sony",
+          "artistName": "Pink Floyd",
+          "isAvailableInHiRes": false,
+          "contributingArtists": {
+            "primaryArtist": "art.69132"
+          },
+          "discographies": {
+            "main": [
+              "art.69132"
+            ]
+          },
+          "links": {
+            "images": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211401109/images"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211401109/tracks"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211401109/posts"
+            },
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44",
+                "g.5"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44,g.5"
+            },
+            "reviews": {
+              "ids": [
+                "reval.213471244"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/reviews/reval.213471244"
+            }
+          },
+          "isStreamable": true
+        },
+        {
+          "type": "album",
+          "id": "alb.211396502",
+          "upc": "886445613278",
+          "shortcut": "pink-floyd/wish-you-were-here-columbia-legacy",
+          "href": "https://api.napster.com/v2.2/albums/alb.211396502",
+          "name": "Wish You Were Here",
+          "released": "2016-01-01T00:00:00.000Z",
+          "originallyReleased": "1975-09-15T00:00:00.000Z",
+          "label": "Pink Floyd Records",
+          "copyright": "2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
+          "tags": [],
+          "discCount": 1,
+          "trackCount": 5,
+          "isExplicit": false,
+          "isSingle": false,
+          "accountPartner": "Sony",
+          "artistName": "Pink Floyd",
+          "isAvailableInHiRes": false,
+          "contributingArtists": {
+            "primaryArtist": "art.69132",
+            "guestVocals": "art.5075"
+          },
+          "discographies": {
+            "main": [
+              "art.69132"
+            ],
+            "others": [
+              "art.5075"
+            ]
+          },
+          "links": {
+            "images": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211396502/images"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211396502/tracks"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211396502/posts"
+            },
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44"
+            },
+            "reviews": {
+              "ids": [
+                "reval.151517475"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/reviews/reval.151517475"
+            }
+          },
+          "isStreamable": true
+        },
+        {
+          "type": "album",
+          "id": "alb.211365160",
+          "upc": "886445613902",
+          "shortcut": "pink-floyd/relics-columbia-legacy",
+          "href": "https://api.napster.com/v2.2/albums/alb.211365160",
+          "name": "Relics",
+          "released": "2016-01-01T00:00:00.000Z",
+          "originallyReleased": "1971-05-01T00:00:00.000Z",
+          "label": "Pink Floyd Records",
+          "copyright": "2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
+          "tags": [],
+          "discCount": 1,
+          "trackCount": 11,
+          "isExplicit": false,
+          "isSingle": false,
+          "accountPartner": "Sony",
+          "artistName": "Pink Floyd",
+          "isAvailableInHiRes": false,
+          "contributingArtists": {
+            "primaryArtist": "art.69132",
+            "featuredPerformer": "art.1844"
+          },
+          "discographies": {
+            "others": [
+              "art.69132",
+              "art.1844"
+            ]
+          },
+          "links": {
+            "images": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211365160/images"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211365160/tracks"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211365160/posts"
+            },
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "genres": {
+              "ids": [
+                "g.153",
+                "g.44",
+                "g.440"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.153,g.44,g.440"
+            },
+            "reviews": {
+              "ids": [
+                "reval.37026455"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/reviews/reval.37026455"
+            }
+          },
+          "isStreamable": true
+        },
+        {
+          "type": "album",
+          "id": "alb.211405642",
+          "upc": "886445613957",
+          "shortcut": "pink-floyd/a-foot-in-the-door-the-best-of-pink-floyd-columbia-legacy",
+          "href": "https://api.napster.com/v2.2/albums/alb.211405642",
+          "name": "A Foot in the Door: The Best of Pink Floyd",
+          "released": "2016-01-01T00:00:00.000Z",
+          "originallyReleased": "2011-11-08T00:00:00.000Z",
+          "label": "Pink Floyd Records",
+          "copyright": "2016 The copyright in this compilation is owned by Pink Floyd Music Ltd. / Pink Floyd (1987) Ltd., marketed and distributed by Sony Music Entertainment.",
+          "tags": [],
+          "discCount": 1,
+          "trackCount": 16,
+          "isExplicit": false,
+          "isSingle": false,
+          "accountPartner": "Sony",
+          "artistName": "Pink Floyd",
+          "isAvailableInHiRes": false,
+          "contributingArtists": {
+            "primaryArtist": "art.69132"
+          },
+          "discographies": {
+            "main": [
+              "art.69132"
+            ]
+          },
+          "links": {
+            "images": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211405642/images"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211405642/tracks"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211405642/posts"
+            },
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "genres": {
+              "ids": [
+                "g.44",
+                "g.42"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.44,g.42"
+            },
+            "reviews": {
+              "ids": [
+                "reval.51746438"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/reviews/reval.51746438"
+            }
+          },
+          "isStreamable": true
+        },
+        {
+          "type": "album",
+          "id": "alb.211405616",
+          "upc": "886445613872",
+          "shortcut": "pink-floyd/the-division-bell-columbia-legacy",
+          "href": "https://api.napster.com/v2.2/albums/alb.211405616",
+          "name": "The Division Bell",
+          "released": "2016-01-01T00:00:00.000Z",
+          "originallyReleased": "1994-03-28T00:00:00.000Z",
+          "label": "Pink Floyd Records",
+          "copyright": "2016 The copyright in this sound recording is owned by Pink Floyd (1987) Ltd., marketed and distributed by Sony Music Entertainment",
+          "tags": [],
+          "discCount": 1,
+          "trackCount": 11,
+          "isExplicit": false,
+          "isSingle": false,
+          "accountPartner": "Sony",
+          "artistName": "Pink Floyd",
+          "isAvailableInHiRes": false,
+          "contributingArtists": {
+            "primaryArtist": "art.69132"
+          },
+          "discographies": {
+            "main": [
+              "art.69132"
+            ],
+            "others": [
+              "art.241232886",
+              "art.49796",
+              "art.21236346",
+              "art.25049244",
+              "art.28901805",
+              "art.44765877",
+              "art.250282604",
+              "art.45865",
+              "art.50060350",
+              "art.322245056",
+              "art.382572677",
+              "art.269830801",
+              "art.47642308",
+              "art.64252",
+              "art.32621429",
+              "art.382572675",
+              "art.7269508",
+              "art.27620",
+              "art.220944681",
+              "art.41001352",
+              "art.30392215",
+              "art.382572658",
+              "art.39120028",
+              "art.1899",
+              "art.340032998",
+              "art.31234913",
+              "art.6875117",
+              "art.5002",
+              "art.248085402"
+            ]
+          },
+          "links": {
+            "images": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211405616/images"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211405616/tracks"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211405616/posts"
+            },
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "genres": {
+              "ids": [
+                "g.44"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.44"
+            },
+            "reviews": {
+              "ids": [
+                "reval.213471249"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/reviews/reval.213471249"
+            }
+          },
+          "isStreamable": true
+        },
+        {
+          "type": "album",
+          "id": "alb.211401055",
+          "upc": "886445613865",
+          "shortcut": "pink-floyd/a-momentary-lapse-of-reason-columbia-legacy",
+          "href": "https://api.napster.com/v2.2/albums/alb.211401055",
+          "name": "A Momentary Lapse of Reason",
+          "released": "2016-01-01T00:00:00.000Z",
+          "originallyReleased": "1987-09-08T00:00:00.000Z",
+          "label": "Pink Floyd Records",
+          "copyright": "2016 The copyright in this sound recording is owned by Pink Floyd (1987) Ltd., marketed and distributed by Sony Music Entertainment",
+          "tags": [],
+          "discCount": 1,
+          "trackCount": 11,
+          "isExplicit": false,
+          "isSingle": false,
+          "accountPartner": "Sony",
+          "artistName": "Pink Floyd",
+          "isAvailableInHiRes": false,
+          "contributingArtists": {
+            "primaryArtist": "art.69132"
+          },
+          "discographies": {
+            "main": [
+              "art.69132"
+            ],
+            "others": [
+              "art.7067",
+              "art.130757856",
+              "art.28901805",
+              "art.220944681",
+              "art.32746679",
+              "art.6302886",
+              "art.388391094",
+              "art.26742078",
+              "art.323",
+              "art.49796",
+              "art.6825252",
+              "art.60211",
+              "art.39119139",
+              "art.41264",
+              "art.39120028",
+              "art.57711072",
+              "art.265937146",
+              "art.39120045",
+              "art.25904",
+              "art.25698",
+              "art.133066135",
+              "art.32621429",
+              "art.5002",
+              "art.59610",
+              "art.11359433",
+              "art.322245056",
+              "art.27620",
+              "art.6875117"
+            ]
+          },
+          "links": {
+            "images": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211401055/images"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211401055/tracks"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211401055/posts"
+            },
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44"
+            },
+            "reviews": {
+              "ids": [
+                "reval.37034505"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/reviews/reval.37034505"
+            }
+          },
+          "isStreamable": true
+        },
+        {
+          "type": "album",
+          "id": "alb.45160938",
+          "upc": "885767511453",
+          "shortcut": "celtic-pink-floyd/celtic-pink-floyd",
+          "href": "https://api.napster.com/v2.2/albums/alb.45160938",
+          "name": "Celtic Pink Floyd",
+          "released": "2011-03-17T00:00:00.000Z",
+          "originallyReleased": "2011-03-17T00:00:00.000Z",
+          "label": "Vented Irish Records",
+          "copyright": "2011 Stoutheart Entertainment",
+          "tags": [],
+          "discCount": 1,
+          "trackCount": 12,
+          "isExplicit": false,
+          "isSingle": false,
+          "accountPartner": "CD Baby",
+          "artistName": "Celtic Pink Floyd",
+          "isAvailableInHiRes": false,
+          "contributingArtists": {
+            "primaryArtist": "art.45160935"
+          },
+          "discographies": {
+            "main": [
+              "art.45160935"
+            ]
+          },
+          "links": {
+            "images": {
+              "href": "https://api.napster.com/v2.2/albums/alb.45160938/images"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/albums/alb.45160938/tracks"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/albums/alb.45160938/posts"
+            },
+            "artists": {
+              "ids": [
+                "art.45160935"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.45160935"
+            },
+            "genres": {
+              "ids": [
+                "g.446"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.446"
+            }
+          },
+          "isStreamable": true
+        },
+        {
+          "type": "album",
+          "id": "alb.167565268",
+          "upc": "886444854061",
+          "shortcut": "pink-floyd/the-endless-river-bonus-tracks",
+          "href": "https://api.napster.com/v2.2/albums/alb.167565268",
+          "name": "The Endless River",
+          "released": "2014-11-10T00:00:00.000Z",
+          "originallyReleased": "2014-11-10T00:00:00.000Z",
+          "label": "Columbia",
+          "copyright": "2014 Columbia Records, a Division of Sony Music Entertainment",
+          "tags": [
+            "Bonus Tracks"
+          ],
+          "discCount": 1,
+          "trackCount": 21,
+          "isExplicit": false,
+          "isSingle": false,
+          "accountPartner": "Sony",
+          "artistName": "Pink Floyd",
+          "isAvailableInHiRes": false,
+          "contributingArtists": {
+            "primaryArtist": "art.69132"
+          },
+          "discographies": {
+            "main": [
+              "art.69132"
+            ],
+            "others": [
+              "art.220944681",
+              "art.7067",
+              "art.396585262",
+              "art.47642308",
+              "art.265937662",
+              "art.30392215",
+              "art.58246",
+              "art.23640213",
+              "art.19786",
+              "art.44765877",
+              "art.66570",
+              "art.269830801",
+              "art.6875117",
+              "art.241232886",
+              "art.28901805",
+              "art.32621429",
+              "art.27620",
+              "art.5002",
+              "art.49796"
+            ]
+          },
+          "links": {
+            "images": {
+              "href": "https://api.napster.com/v2.2/albums/alb.167565268/images"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/albums/alb.167565268/tracks"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/albums/alb.167565268/posts"
+            },
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "genres": {
+              "ids": [
+                "g.44",
+                "g.42"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.44,g.42"
+            },
+            "reviews": {
+              "ids": [
+                "reval.168256038"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/reviews/reval.168256038"
+            }
+          },
+          "isStreamable": true
+        },
+        {
+          "type": "album",
+          "id": "alb.211359947",
+          "upc": "886445613889",
+          "shortcut": "pink-floyd/delicate-sound-of-thunder-live",
+          "href": "https://api.napster.com/v2.2/albums/alb.211359947",
+          "name": "Delicate Sound of Thunder (Live)",
+          "released": "2016-01-01T00:00:00.000Z",
+          "originallyReleased": "1988-11-02T00:00:00.000Z",
+          "label": "Pink Floyd Records",
+          "copyright": "2016 The copyright in this compilation is owned by Pink Floyd (1987) Ltd., marketed and distributed by Sony Music Entertainment.",
+          "tags": [],
+          "discCount": 2,
+          "trackCount": 15,
+          "isExplicit": false,
+          "isSingle": false,
+          "accountPartner": "Sony",
+          "artistName": "Pink Floyd",
+          "isAvailableInHiRes": false,
+          "contributingArtists": {
+            "primaryArtist": "art.69132"
+          },
+          "discographies": {
+            "main": [
+              "art.69132"
+            ]
+          },
+          "links": {
+            "images": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211359947/images"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211359947/tracks"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211359947/posts"
+            },
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44"
+            },
+            "reviews": {
+              "ids": [
+                "reval.37023241"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/reviews/reval.37023241"
+            }
+          },
+          "isStreamable": true
+        },
+        {
+          "type": "album",
+          "id": "alb.211401068",
+          "upc": "886445613254",
+          "shortcut": "pink-floyd/obscured-by-clouds-columbia-legacy",
+          "href": "https://api.napster.com/v2.2/albums/alb.211401068",
+          "name": "Obscured by Clouds",
+          "released": "2016-01-01T00:00:00.000Z",
+          "originallyReleased": "1972-06-03T00:00:00.000Z",
+          "label": "Pink Floyd Records",
+          "copyright": "2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
+          "tags": [
+            "Soundtrack"
+          ],
+          "discCount": 1,
+          "trackCount": 10,
+          "isExplicit": false,
+          "isSingle": false,
+          "accountPartner": "Sony",
+          "artistName": "Pink Floyd",
+          "isAvailableInHiRes": false,
+          "contributingArtists": {
+            "primaryArtist": "art.69132"
+          },
+          "discographies": {
+            "main": [
+              "art.69132"
+            ]
+          },
+          "links": {
+            "images": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211401068/images"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211401068/tracks"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/albums/alb.211401068/posts"
+            },
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "genres": {
+              "ids": [
+                "g.44",
+                "g.308"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.44,g.308"
+            },
+            "reviews": {
+              "ids": [
+                "reval.37021133"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/reviews/reval.37021133"
+            }
+          },
+          "isStreamable": true
+        }
+      ],
+      "artists": [
+        {
+          "type": "artist",
+          "id": "art.69132",
+          "href": "https://api.napster.com/v2.2/artists/art.69132",
+          "name": "Pink Floyd",
+          "shortcut": "pink-floyd",
+          "blurbs": [
+            "The premier psychedelic band of the 1970s, Pink Floyd formed in 1965, incorporating jazz and insanity into their music.",
+            "Due to a tragic decline in his mental health, original member Syd Barrett was replaced with David Gilmour in 1967.",
+            "\"Dark Side of the Moon\" is the ultimate concept album. Since 1973, over 15 million copies have been sold in the US alone.",
+            "In July 2005, David Gilmour, Nick Mason, Richard Wright and Roger Waters reformed for the Live 8 charity concert.",
+            "Toni Tennille (of Captain & Tennille fame) sang background vocals on many tracks for \"The Wall.\""
+          ],
+          "bios": [
+            {
+              "title": "CDRISCOLL",
+              "author": "Chad Driscoll",
+              "publishDate": "",
+              "bio": "Early Pink Floyd recordings make space travel superfluous so long as we have keyboards here on Earth. Back when enigmatic lyricist and acid-eater extraordinaire Syd Barrett skippered the ship, the Floyd sounded something like Monty Python with instruments -- quirky, trippy and weird. Barrett made Bedlam seem a reasonable price to pay for such gems as \"Bike,\" \"Lucifer Sam,\" and the Space Rock tour-de-force \"Astronomy Domine.\" Upon Barrett's departure, the only marginally less maniacal Roger Waters took on singing and songwriting duties. The band dug even deeper into labyrinthine song structures, but nothing prior had prepared the world for 1973s <i>Dark Side of the Moon</i>. The concept album par excellence, <i>Moon</i> utilizes a narrative lyric structure and musical leitmotifs to give the album a sense of coherence. These compositional strategies culminated in '79s harrowing magnum opus, <i>The Wall</I>, an unflinching look at England's soul -- its educational system, its flirtations with fascism, the conservatism leading up to Thatcher. After Waters' defection, the remaining members came down with a crippling case of the blands but decided to stick it out, releasing a series of flashy (note '95's <I>Pulse</i>), nostalgic commodities that basically sounded like David Gilmour solo efforts (even if they continued to sell like genuine Pink Floyd productions). In July 2005, David Gilmour, Nick Mason, Richard Wright and Roger Waters reformed for the Live 8 charity concert. Sadly, in July 2006, Syd Barrett died at the age of 60, from complications of diabetes."
+            }
+          ],
+          "albumGroups": {
+            "singlesAndEPs": [
+              "alb.569028612",
+              "alb.567563908",
+              "alb.565690202",
+              "alb.563758667",
+              "alb.524454826",
+              "alb.520942603",
+              "alb.518630323",
+              "alb.513359082",
+              "alb.490279182",
+              "alb.486760371",
+              "alb.486224783",
+              "alb.484655771",
+              "alb.483002451",
+              "alb.480952561",
+              "alb.479001394",
+              "alb.477027197",
+              "alb.475491500",
+              "alb.382572683",
+              "alb.382572667",
+              "alb.382572646",
+              "alb.211401040"
+            ],
+            "others": [
+              "alb.552133207",
+              "alb.536085423",
+              "alb.508570234",
+              "alb.540834282",
+              "alb.510931360",
+              "alb.500318134",
+              "alb.503831255",
+              "alb.475721796",
+              "alb.471525123",
+              "alb.467519478",
+              "alb.424647708",
+              "alb.357244088",
+              "alb.314693101",
+              "alb.305619116",
+              "alb.272426469",
+              "alb.306074950",
+              "alb.485807237",
+              "alb.527170786",
+              "alb.272905",
+              "alb.193918",
+              "alb.211363534",
+              "alb.50598403",
+              "alb.407533056",
+              "alb.211365160",
+              "alb.30142188"
+            ],
+            "main": [
+              "alb.524461484",
+              "alb.464687840",
+              "alb.427300252",
+              "alb.424311234",
+              "alb.253827954",
+              "alb.253827883",
+              "alb.253827898",
+              "alb.253827985",
+              "alb.253827919",
+              "alb.253827876",
+              "alb.242828234",
+              "alb.167565268",
+              "alb.167565290",
+              "alb.211405642",
+              "alb.42011875",
+              "alb.262439",
+              "alb.211363562",
+              "alb.211405616",
+              "alb.211359947",
+              "alb.211401055",
+              "alb.107472",
+              "alb.211401127",
+              "alb.211401081",
+              "alb.211396482",
+              "alb.211396502",
+              "alb.211401109",
+              "alb.211401068",
+              "alb.211401047",
+              "alb.211401121",
+              "alb.211396465",
+              "alb.211396509",
+              "alb.211396544",
+              "alb.211396532"
+            ],
+            "compilations": [
+              "alb.338841771",
+              "alb.55722948",
+              "alb.245691557",
+              "alb.154406978",
+              "alb.54173438",
+              "alb.32243110",
+              "alb.55722105",
+              "alb.169210"
+            ]
+          },
+          "links": {
+            "albums": {
+              "href": "https://api.napster.com/v2.2/artists/art.69132/albums"
+            },
+            "images": {
+              "href": "https://api.napster.com/v2.2/artists/art.69132/images"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/artists/art.69132/posts"
+            },
+            "topTracks": {
+              "href": "https://api.napster.com/v2.2/artists/art.69132/tracks/top"
+            },
+            "genres": {
+              "ids": [
+                "g.44",
+                "g.42",
+                "g.5",
+                "g.153",
+                "g.115",
+                "g.383",
+                "g.246"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.44,g.42,g.5,g.153,g.115,g.383,g.246"
+            },
+            "stations": {
+              "ids": [
+                "sas.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/stations/sas.69132"
+            },
+            "contemporaries": {
+              "ids": [
+                "art.3568",
+                "art.44067",
+                "art.43248",
+                "art.7098",
+                "art.6448",
+                "art.63464",
+                "art.4941",
+                "art.1596",
+                "art.4816",
+                "art.3949",
+                "art.3773",
+                "art.1185",
+                "art.3639",
+                "art.1726",
+                "art.15824",
+                "art.17124",
+                "art.69088",
+                "art.27752",
+                "art.3534",
+                "art.41141",
+                "art.3313"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.3568,art.44067,art.43248,art.7098,art.6448,art.63464,art.4941,art.1596,art.4816,art.3949,art.3773,art.1185,art.3639,art.1726,art.15824,art.17124,art.69088,art.27752,art.3534,art.41141,art.3313"
+            },
+            "followers": {
+              "ids": [
+                "art.44273",
+                "art.69090",
+                "art.43709",
+                "art.42557",
+                "art.38139",
+                "art.731",
+                "art.213",
+                "art.4936901",
+                "art.1444",
+                "art.3719",
+                "art.4817",
+                "art.9534",
+                "art.17793"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.44273,art.69090,art.43709,art.42557,art.38139,art.731,art.213,art.4936901,art.1444,art.3719,art.4817,art.9534,art.17793"
+            },
+            "relatedProjects": {
+              "ids": [
+                "art.1844",
+                "art.68413",
+                "art.5002",
+                "art.7635"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.1844,art.68413,art.5002,art.7635"
+            }
+          }
+        },
+        {
+          "type": "artist",
+          "id": "art.45160935",
+          "href": "https://api.napster.com/v2.2/artists/art.45160935",
+          "name": "Celtic Pink Floyd",
+          "shortcut": "celtic-pink-floyd",
+          "blurbs": [],
+          "albumGroups": {
+            "singlesAndEPs": [
+              "alb.507462931"
+            ],
+            "main": [
+              "alb.256009299",
+              "alb.45160938"
+            ]
+          },
+          "links": {
+            "albums": {
+              "href": "https://api.napster.com/v2.2/artists/art.45160935/albums"
+            },
+            "images": {
+              "href": "https://api.napster.com/v2.2/artists/art.45160935/images"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/artists/art.45160935/posts"
+            },
+            "topTracks": {
+              "href": "https://api.napster.com/v2.2/artists/art.45160935/tracks/top"
+            },
+            "genres": {
+              "ids": [
+                "g.446"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.446"
+            },
+            "stations": {
+              "ids": [
+                "sas.45160935"
+              ],
+              "href": "https://api.napster.com/v2.2/stations/sas.45160935"
+            }
+          }
+        },
+        {
+          "type": "artist",
+          "id": "art.66584681",
+          "href": "https://api.napster.com/v2.2/artists/art.66584681",
+          "name": "The Australian Pink Floyd Show",
+          "shortcut": "the-australian-pink-floyd-show",
+          "blurbs": [],
+          "albumGroups": {
+            "main": [
+              "alb.66584684"
+            ]
+          },
+          "links": {
+            "albums": {
+              "href": "https://api.napster.com/v2.2/artists/art.66584681/albums"
+            },
+            "images": {
+              "href": "https://api.napster.com/v2.2/artists/art.66584681/images"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/artists/art.66584681/posts"
+            },
+            "topTracks": {
+              "href": "https://api.napster.com/v2.2/artists/art.66584681/tracks/top"
+            },
+            "genres": {
+              "ids": [
+                "g.5"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.5"
+            },
+            "stations": {
+              "ids": [
+                "sas.66584681"
+              ],
+              "href": "https://api.napster.com/v2.2/stations/sas.66584681"
+            }
+          }
+        },
+        {
+          "type": "artist",
+          "id": "art.7304875",
+          "href": "https://api.napster.com/v2.2/artists/art.7304875",
+          "name": "Pink Floyd Floydhead",
+          "shortcut": "pink-floyd-floydhead",
+          "amg": "718048",
+          "blurbs": [],
+          "albumGroups": {
+            "main": [
+              "alb.7299371"
+            ]
+          },
+          "links": {
+            "albums": {
+              "href": "https://api.napster.com/v2.2/artists/art.7304875/albums"
+            },
+            "images": {
+              "href": "https://api.napster.com/v2.2/artists/art.7304875/images"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/artists/art.7304875/posts"
+            },
+            "topTracks": {
+              "href": "https://api.napster.com/v2.2/artists/art.7304875/tracks/top"
+            },
+            "genres": {
+              "ids": [
+                "g.213"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.213"
+            },
+            "stations": {
+              "ids": [
+                "sas.7304875"
+              ],
+              "href": "https://api.napster.com/v2.2/stations/sas.7304875"
+            }
+          }
+        },
+        {
+          "type": "artist",
+          "id": "art.129421894",
+          "href": "https://api.napster.com/v2.2/artists/art.129421894",
+          "name": "Pink Floyd Redux",
+          "shortcut": "pink-floyd-redux",
+          "blurbs": [],
+          "albumGroups": {
+            "main": [
+              "alb.129421897"
+            ]
+          },
+          "links": {
+            "albums": {
+              "href": "https://api.napster.com/v2.2/artists/art.129421894/albums"
+            },
+            "images": {
+              "href": "https://api.napster.com/v2.2/artists/art.129421894/images"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/artists/art.129421894/posts"
+            },
+            "topTracks": {
+              "href": "https://api.napster.com/v2.2/artists/art.129421894/tracks/top"
+            },
+            "genres": {
+              "ids": [
+                "g.115"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.115"
+            },
+            "stations": {
+              "ids": [
+                "sas.129421894"
+              ],
+              "href": "https://api.napster.com/v2.2/stations/sas.129421894"
+            }
+          }
+        },
+        {
+          "type": "artist",
+          "id": "art.214718952",
+          "href": "https://api.napster.com/v2.2/artists/art.214718952",
+          "name": "Hungarian Pink Floyd Show",
+          "shortcut": "hungarian-pink-floyd-show",
+          "blurbs": [],
+          "albumGroups": {
+            "main": [
+              "alb.214718955"
+            ]
+          },
+          "links": {
+            "albums": {
+              "href": "https://api.napster.com/v2.2/artists/art.214718952/albums"
+            },
+            "images": {
+              "href": "https://api.napster.com/v2.2/artists/art.214718952/images"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/artists/art.214718952/posts"
+            },
+            "topTracks": {
+              "href": "https://api.napster.com/v2.2/artists/art.214718952/tracks/top"
+            },
+            "genres": {
+              "ids": [
+                "g.112"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.112"
+            },
+            "stations": {
+              "ids": [
+                "sas.214718952"
+              ],
+              "href": "https://api.napster.com/v2.2/stations/sas.214718952"
+            }
+          }
+        },
+        {
+          "type": "artist",
+          "id": "art.225982466",
+          "href": "https://api.napster.com/v2.2/artists/art.225982466",
+          "name": "The Pink Floyd Story",
+          "shortcut": "the-pink-floyd-story",
+          "blurbs": [],
+          "albumGroups": {
+            "compilations": [
+              "alb.572870938",
+              "alb.572845576",
+              "alb.572841650",
+              "alb.572853866",
+              "alb.572870166",
+              "alb.572870488",
+              "alb.514973276",
+              "alb.514950496",
+              "alb.514973122",
+              "alb.514973108",
+              "alb.514995437",
+              "alb.515263006",
+              "alb.514973080",
+              "alb.515237753",
+              "alb.490902838",
+              "alb.490045753",
+              "alb.490177137",
+              "alb.490258615",
+              "alb.490125193",
+              "alb.490119161",
+              "alb.490911971",
+              "alb.490456243",
+              "alb.488820609",
+              "alb.489439739",
+              "alb.471836028",
+              "alb.344740344",
+              "alb.341130814"
+            ],
+            "main": [
+              "alb.572875987",
+              "alb.572860228",
+              "alb.572858939",
+              "alb.488222154",
+              "alb.489671280",
+              "alb.225982469"
+            ]
+          },
+          "links": {
+            "albums": {
+              "href": "https://api.napster.com/v2.2/artists/art.225982466/albums"
+            },
+            "images": {
+              "href": "https://api.napster.com/v2.2/artists/art.225982466/images"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/artists/art.225982466/posts"
+            },
+            "topTracks": {
+              "href": "https://api.napster.com/v2.2/artists/art.225982466/tracks/top"
+            },
+            "genres": {
+              "ids": [
+                "g.33",
+                "g.115"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.33,g.115"
+            },
+            "stations": {
+              "ids": [
+                "sas.225982466"
+              ],
+              "href": "https://api.napster.com/v2.2/stations/sas.225982466"
+            }
+          }
+        },
+        {
+          "type": "artist",
+          "id": "art.290569881",
+          "href": "https://api.napster.com/v2.2/artists/art.290569881",
+          "name": "Dj Pink Floyd",
+          "shortcut": "dj-pink-floyd",
+          "blurbs": [],
+          "albumGroups": {
+            "singlesAndEPs": [
+              "alb.290569884"
+            ]
+          },
+          "links": {
+            "albums": {
+              "href": "https://api.napster.com/v2.2/artists/art.290569881/albums"
+            },
+            "images": {
+              "href": "https://api.napster.com/v2.2/artists/art.290569881/images"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/artists/art.290569881/posts"
+            },
+            "topTracks": {
+              "href": "https://api.napster.com/v2.2/artists/art.290569881/tracks/top"
+            },
+            "genres": {
+              "ids": [
+                "g.453"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.453"
+            },
+            "stations": {
+              "ids": [
+                "sas.290569881"
+              ],
+              "href": "https://api.napster.com/v2.2/stations/sas.290569881"
+            }
+          }
+        },
+        {
+          "type": "artist",
+          "id": "art.47608626",
+          "href": "https://api.napster.com/v2.2/artists/art.47608626",
+          "name": "Floyd Pink",
+          "shortcut": "floyd-pink",
+          "blurbs": [],
+          "albumGroups": {
+            "singlesAndEPs": [
+              "alb.47608629"
+            ]
+          },
+          "links": {
+            "albums": {
+              "href": "https://api.napster.com/v2.2/artists/art.47608626/albums"
+            },
+            "images": {
+              "href": "https://api.napster.com/v2.2/artists/art.47608626/images"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/artists/art.47608626/posts"
+            },
+            "topTracks": {
+              "href": "https://api.napster.com/v2.2/artists/art.47608626/tracks/top"
+            },
+            "genres": {
+              "ids": [
+                "g.71"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.71"
+            },
+            "stations": {
+              "ids": [
+                "sas.47608626"
+              ],
+              "href": "https://api.napster.com/v2.2/stations/sas.47608626"
+            }
+          }
+        },
+        {
+          "type": "artist",
+          "id": "art.215716791",
+          "href": "https://api.napster.com/v2.2/artists/art.215716791",
+          "name": "Pink Floyd Music Publishers Ltd",
+          "shortcut": "pink-floyd-music-publishers-ltd",
+          "blurbs": [],
+          "albumGroups": {
+            "compilations": [
+              "alb.507416409",
+              "alb.514326967"
+            ],
+            "others": [
+              "alb.471604737",
+              "alb.215716786"
+            ]
+          },
+          "links": {
+            "albums": {
+              "href": "https://api.napster.com/v2.2/artists/art.215716791/albums"
+            },
+            "images": {
+              "href": "https://api.napster.com/v2.2/artists/art.215716791/images"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/artists/art.215716791/posts"
+            },
+            "topTracks": {
+              "href": "https://api.napster.com/v2.2/artists/art.215716791/tracks/top"
+            },
+            "genres": {
+              "ids": [
+                "g.6"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.6"
+            },
+            "stations": {
+              "ids": [
+                "sas.215716791"
+              ],
+              "href": "https://api.napster.com/v2.2/stations/sas.215716791"
+            }
+          }
+        },
+        {
+          "type": "artist",
+          "id": "art.22189724",
+          "href": "https://api.napster.com/v2.2/artists/art.22189724",
+          "name": "The Illusion A Sound Like Pink Floyd",
+          "shortcut": "the-illusion-a-sound-like-pink-floyd",
+          "blurbs": [],
+          "albumGroups": {
+            "singlesAndEPs": [
+              "alb.22190834"
+            ]
+          },
+          "links": {
+            "albums": {
+              "href": "https://api.napster.com/v2.2/artists/art.22189724/albums"
+            },
+            "images": {
+              "href": "https://api.napster.com/v2.2/artists/art.22189724/images"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/artists/art.22189724/posts"
+            },
+            "topTracks": {
+              "href": "https://api.napster.com/v2.2/artists/art.22189724/tracks/top"
+            },
+            "genres": {
+              "ids": [
+                "g.5",
+                "g.115"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.5,g.115"
+            },
+            "stations": {
+              "ids": [
+                "sas.22189724"
+              ],
+              "href": "https://api.napster.com/v2.2/stations/sas.22189724"
+            }
+          }
+        },
+        {
+          "type": "artist",
+          "id": "art.188237409",
+          "href": "https://api.napster.com/v2.2/artists/art.188237409",
+          "name": "Wild Pink",
+          "shortcut": "wild-pink",
+          "blurbs": [],
+          "albumGroups": {
+            "singlesAndEPs": [
+              "alb.553278258",
+              "alb.349726047",
+              "alb.350791561",
+              "alb.348420506",
+              "alb.320585773",
+              "alb.318046296",
+              "alb.314635892",
+              "alb.310471507",
+              "alb.290615372",
+              "alb.278794994",
+              "alb.251593370",
+              "alb.249109674",
+              "alb.246891109",
+              "alb.245843044",
+              "alb.235350612",
+              "alb.235351118",
+              "alb.188237412"
+            ],
+            "main": [
+              "alb.311839170",
+              "alb.245842925"
+            ]
+          },
+          "links": {
+            "albums": {
+              "href": "https://api.napster.com/v2.2/artists/art.188237409/albums"
+            },
+            "images": {
+              "href": "https://api.napster.com/v2.2/artists/art.188237409/images"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/artists/art.188237409/posts"
+            },
+            "topTracks": {
+              "href": "https://api.napster.com/v2.2/artists/art.188237409/tracks/top"
+            },
+            "genres": {
+              "ids": [
+                "g.204",
+                "g.5",
+                "g.33"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.204,g.5,g.33"
+            },
+            "stations": {
+              "ids": [
+                "sas.188237409"
+              ],
+              "href": "https://api.napster.com/v2.2/stations/sas.188237409"
+            }
+          }
+        },
+        {
+          "type": "artist",
+          "id": "art.35292243",
+          "href": "https://api.napster.com/v2.2/artists/art.35292243",
+          "name": "Punk Floyd",
+          "shortcut": "punk-floyd",
+          "amg": "299890",
+          "blurbs": [],
+          "albumGroups": {
+            "singlesAndEPs": [
+              "alb.539052582",
+              "alb.424842678",
+              "alb.188371062"
+            ],
+            "main": [
+              "alb.299394826"
+            ]
+          },
+          "links": {
+            "albums": {
+              "href": "https://api.napster.com/v2.2/artists/art.35292243/albums"
+            },
+            "images": {
+              "href": "https://api.napster.com/v2.2/artists/art.35292243/images"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/artists/art.35292243/posts"
+            },
+            "topTracks": {
+              "href": "https://api.napster.com/v2.2/artists/art.35292243/tracks/top"
+            },
+            "genres": {
+              "ids": [
+                "g.71",
+                "g.33",
+                "g.96",
+                "g.314"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.71,g.33,g.96,g.314"
+            },
+            "stations": {
+              "ids": [
+                "sas.35292243"
+              ],
+              "href": "https://api.napster.com/v2.2/stations/sas.35292243"
+            }
+          }
+        },
+        {
+          "type": "artist",
+          "id": "art.36167",
+          "href": "https://api.napster.com/v2.2/artists/art.36167",
+          "name": "WYLDE BUNCH",
+          "shortcut": "wylde-bunch",
+          "blurbs": [],
+          "albumGroups": {
+            "singlesAndEPs": [
+              "alb.533780479",
+              "alb.255731360",
+              "alb.69375541",
+              "alb.69153523",
+              "alb.5272166"
+            ],
+            "main": [
+              "alb.529156883",
+              "alb.69920843",
+              "alb.10788359",
+              "alb.6356475"
+            ]
+          },
+          "links": {
+            "albums": {
+              "href": "https://api.napster.com/v2.2/artists/art.36167/albums"
+            },
+            "images": {
+              "href": "https://api.napster.com/v2.2/artists/art.36167/images"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/artists/art.36167/posts"
+            },
+            "topTracks": {
+              "href": "https://api.napster.com/v2.2/artists/art.36167/tracks/top"
+            },
+            "genres": {
+              "ids": [
+                "g.173",
+                "g.249",
+                "g.194",
+                "g.146",
+                "g.115"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.173,g.249,g.194,g.146,g.115"
+            },
+            "stations": {
+              "ids": [
+                "sas.36167"
+              ],
+              "href": "https://api.napster.com/v2.2/stations/sas.36167"
+            },
+            "contemporaries": {
+              "ids": [
+                "art.3323",
+                "art.38114",
+                "art.37888",
+                "art.69259"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.3323,art.38114,art.37888,art.69259"
+            }
+          }
+        },
+        {
+          "type": "artist",
+          "id": "art.29725057",
+          "href": "https://api.napster.com/v2.2/artists/art.29725057",
+          "name": "Pink Fluid",
+          "shortcut": "pink-fluid",
+          "blurbs": [],
+          "albumGroups": {
+            "compilations": [
+              "alb.560422511",
+              "alb.300420889",
+              "alb.302871483",
+              "alb.325369085",
+              "alb.302464275",
+              "alb.556406359",
+              "alb.268876001",
+              "alb.244864554",
+              "alb.282796860",
+              "alb.245461140",
+              "alb.214799594",
+              "alb.215407665",
+              "alb.215702708",
+              "alb.214726161",
+              "alb.215407710",
+              "alb.216744846",
+              "alb.214727643",
+              "alb.214727109",
+              "alb.215402793",
+              "alb.214727716",
+              "alb.214350540",
+              "alb.216572872",
+              "alb.215703099",
+              "alb.215402751",
+              "alb.214812946",
+              "alb.215403124",
+              "alb.245537300",
+              "alb.215702333",
+              "alb.216743762",
+              "alb.214726946",
+              "alb.214727087",
+              "alb.208382713",
+              "alb.207848599",
+              "alb.208367731",
+              "alb.207611463",
+              "alb.208368232",
+              "alb.208384090",
+              "alb.207751369",
+              "alb.206882676",
+              "alb.208367797",
+              "alb.207610891",
+              "alb.208361658",
+              "alb.208361990",
+              "alb.208367869",
+              "alb.208409029",
+              "alb.206870050",
+              "alb.206773717",
+              "alb.206872493",
+              "alb.206869906",
+              "alb.208377410",
+              "alb.553423552",
+              "alb.179164253",
+              "alb.179995125",
+              "alb.142851401",
+              "alb.127748916",
+              "alb.129260166",
+              "alb.29716792"
+            ],
+            "singlesAndEPs": [
+              "alb.363052929",
+              "alb.359373872",
+              "alb.359634138",
+              "alb.366010111",
+              "alb.295398356",
+              "alb.287843377",
+              "alb.188272558",
+              "alb.177340735",
+              "alb.359634044",
+              "alb.360596451",
+              "alb.359634026"
+            ],
+            "main": [
+              "alb.273450484",
+              "alb.361046526",
+              "alb.363063386"
+            ]
+          },
+          "links": {
+            "albums": {
+              "href": "https://api.napster.com/v2.2/artists/art.29725057/albums"
+            },
+            "images": {
+              "href": "https://api.napster.com/v2.2/artists/art.29725057/images"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/artists/art.29725057/posts"
+            },
+            "topTracks": {
+              "href": "https://api.napster.com/v2.2/artists/art.29725057/tracks/top"
+            },
+            "genres": {
+              "ids": [
+                "g.115",
+                "g.2829",
+                "g.71",
+                "g.453",
+                "g.135"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.115,g.2829,g.71,g.453,g.135"
+            },
+            "stations": {
+              "ids": [
+                "sas.29725057"
+              ],
+              "href": "https://api.napster.com/v2.2/stations/sas.29725057"
+            }
+          }
+        },
+        {
+          "type": "artist",
+          "id": "art.57562516",
+          "href": "https://api.napster.com/v2.2/artists/art.57562516",
+          "name": "Punk Floid",
+          "shortcut": "punk-floid",
+          "blurbs": [],
+          "albumGroups": {
+            "compilations": [
+              "alb.236573789",
+              "alb.235266392"
+            ],
+            "singlesAndEPs": [
+              "alb.443918341",
+              "alb.443522430",
+              "alb.471154827",
+              "alb.443903811",
+              "alb.443903213"
+            ]
+          },
+          "links": {
+            "albums": {
+              "href": "https://api.napster.com/v2.2/artists/art.57562516/albums"
+            },
+            "images": {
+              "href": "https://api.napster.com/v2.2/artists/art.57562516/images"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/artists/art.57562516/posts"
+            },
+            "topTracks": {
+              "href": "https://api.napster.com/v2.2/artists/art.57562516/tracks/top"
+            },
+            "genres": {
+              "ids": [
+                "g.314"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.314"
+            },
+            "stations": {
+              "ids": [
+                "sas.57562516"
+              ],
+              "href": "https://api.napster.com/v2.2/stations/sas.57562516"
+            }
+          }
+        },
+        {
+          "type": "artist",
+          "id": "art.45180294",
+          "href": "https://api.napster.com/v2.2/artists/art.45180294",
+          "name": "Wyld Bunch",
+          "shortcut": "wyld-bunch",
+          "blurbs": [],
+          "albumGroups": {
+            "main": [
+              "alb.528654405",
+              "alb.289537131",
+              "alb.464306139"
+            ],
+            "singlesAndEPs": [
+              "alb.528947912",
+              "alb.453058034"
+            ],
+            "others": [
+              "alb.468090502",
+              "alb.394833474",
+              "alb.352607367",
+              "alb.290305263",
+              "alb.289981567",
+              "alb.289976424",
+              "alb.289472657",
+              "alb.289829588"
+            ]
+          },
+          "links": {
+            "albums": {
+              "href": "https://api.napster.com/v2.2/artists/art.45180294/albums"
+            },
+            "images": {
+              "href": "https://api.napster.com/v2.2/artists/art.45180294/images"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/artists/art.45180294/posts"
+            },
+            "topTracks": {
+              "href": "https://api.napster.com/v2.2/artists/art.45180294/tracks/top"
+            },
+            "genres": {
+              "ids": [
+                "g.146",
+                "g.174"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.146,g.174"
+            },
+            "stations": {
+              "ids": [
+                "sas.45180294"
+              ],
+              "href": "https://api.napster.com/v2.2/stations/sas.45180294"
+            }
+          }
+        },
+        {
+          "type": "artist",
+          "id": "art.407914064",
+          "href": "https://api.napster.com/v2.2/artists/art.407914064",
+          "name": "Pünk Flöyd",
+          "shortcut": "punk-floyd-2",
+          "blurbs": [],
+          "albumGroups": {
+            "main": [
+              "alb.407914067"
+            ]
+          },
+          "links": {
+            "albums": {
+              "href": "https://api.napster.com/v2.2/artists/art.407914064/albums"
+            },
+            "images": {
+              "href": "https://api.napster.com/v2.2/artists/art.407914064/images"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/artists/art.407914064/posts"
+            },
+            "topTracks": {
+              "href": "https://api.napster.com/v2.2/artists/art.407914064/tracks/top"
+            },
+            "genres": {
+              "ids": [
+                "g.5"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.5"
+            },
+            "stations": {
+              "ids": [
+                "sas.407914064"
+              ],
+              "href": "https://api.napster.com/v2.2/stations/sas.407914064"
+            }
+          }
+        },
+        {
+          "type": "artist",
+          "id": "art.321582842",
+          "href": "https://api.napster.com/v2.2/artists/art.321582842",
+          "name": "Pink Flyod",
+          "shortcut": "pink-flyod",
+          "blurbs": [],
+          "albumGroups": {
+            "others": [
+              "alb.321582826"
+            ]
+          },
+          "links": {
+            "albums": {
+              "href": "https://api.napster.com/v2.2/artists/art.321582842/albums"
+            },
+            "images": {
+              "href": "https://api.napster.com/v2.2/artists/art.321582842/images"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/artists/art.321582842/posts"
+            },
+            "topTracks": {
+              "href": "https://api.napster.com/v2.2/artists/art.321582842/tracks/top"
+            },
+            "genres": {
+              "ids": [
+                "g.5"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.5"
+            },
+            "stations": {
+              "ids": [
+                "sas.321582842"
+              ],
+              "href": "https://api.napster.com/v2.2/stations/sas.321582842"
+            }
+          }
+        },
+        {
+          "type": "artist",
+          "id": "art.315545718",
+          "href": "https://api.napster.com/v2.2/artists/art.315545718",
+          "name": "Poncho Villeda",
+          "shortcut": "poncho-villeda",
+          "blurbs": [],
+          "albumGroups": {
+            "main": [
+              "alb.424828391",
+              "alb.317116144",
+              "alb.315545721"
+            ],
+            "singlesAndEPs": [
+              "alb.420325373"
+            ]
+          },
+          "links": {
+            "albums": {
+              "href": "https://api.napster.com/v2.2/artists/art.315545718/albums"
+            },
+            "images": {
+              "href": "https://api.napster.com/v2.2/artists/art.315545718/images"
+            },
+            "posts": {
+              "href": "https://api.napster.com/v2.2/artists/art.315545718/posts"
+            },
+            "topTracks": {
+              "href": "https://api.napster.com/v2.2/artists/art.315545718/tracks/top"
+            },
+            "genres": {
+              "ids": [
+                "g.507"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.507"
+            },
+            "stations": {
+              "ids": [
+                "sas.315545718"
+              ],
+              "href": "https://api.napster.com/v2.2/stations/sas.315545718"
+            }
+          }
+        }
+      ],
+      "tracks": [
+        {
+          "type": "track",
+          "id": "tra.211401100",
+          "index": 6,
+          "disc": 2,
+          "href": "https://api.napster.com/v2.2/tracks/tra.211401100",
+          "playbackSeconds": 382,
+          "isExplicit": false,
+          "isStreamable": true,
+          "isAvailableInHiRes": false,
+          "name": "Comfortably Numb",
+          "isrc": "GBN9Y1100113",
+          "shortcut": "pink-floyd/the-wall-columbia-legacy/comfortably-numb",
+          "blurbs": [],
+          "artistId": "art.69132",
+          "artistName": "Pink Floyd",
+          "albumName": "The Wall",
+          "formats": [
+            {
+              "type": "format",
+              "bitrate": 320,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 192,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 128,
+              "name": "MP3",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 64,
+              "name": "AAC PLUS",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "losslessFormats": [
+            {
+              "type": "format",
+              "bitrate": 44100,
+              "name": "FLAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "albumId": "alb.211401081",
+          "contributors": {
+            "primaryArtist": "art.69132"
+          },
+          "links": {
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "albums": {
+              "ids": [
+                "alb.211401081"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/alb.211401081"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44",
+                "g.124"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44,g.124"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196500",
+                "tag.180995702"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196500,tag.180995702"
+            }
+          },
+          "previewURL": "https://listen.hs.llnwd.net/g3/prvw/6/8/0/0/0/1282100086.mp3"
+        },
+        {
+          "type": "track",
+          "id": "tra.211401095",
+          "index": 1,
+          "disc": 2,
+          "href": "https://api.napster.com/v2.2/tracks/tra.211401095",
+          "playbackSeconds": 278,
+          "isExplicit": false,
+          "isStreamable": true,
+          "isAvailableInHiRes": false,
+          "name": "Hey You",
+          "isrc": "GBN9Y1100108",
+          "shortcut": "pink-floyd/the-wall-columbia-legacy/hey-you",
+          "blurbs": [],
+          "artistId": "art.69132",
+          "artistName": "Pink Floyd",
+          "albumName": "The Wall",
+          "formats": [
+            {
+              "type": "format",
+              "bitrate": 320,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 192,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 128,
+              "name": "MP3",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 64,
+              "name": "AAC PLUS",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "losslessFormats": [
+            {
+              "type": "format",
+              "bitrate": 44100,
+              "name": "FLAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "albumId": "alb.211401081",
+          "contributors": {
+            "primaryArtist": "art.69132"
+          },
+          "links": {
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "albums": {
+              "ids": [
+                "alb.211401081"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/alb.211401081"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44",
+                "g.124"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44,g.124"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196500",
+                "tag.180995702"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196500,tag.180995702"
+            }
+          },
+          "previewURL": "https://listen.hs.llnwd.net/g3/prvw/7/4/2/8/7/1282778247.mp3"
+        },
+        {
+          "type": "track",
+          "id": "tra.211396484",
+          "index": 2,
+          "disc": 1,
+          "href": "https://api.napster.com/v2.2/tracks/tra.211396484",
+          "playbackSeconds": 1025,
+          "isExplicit": false,
+          "isStreamable": true,
+          "isAvailableInHiRes": false,
+          "name": "Dogs",
+          "isrc": "GBN9Y1100091",
+          "shortcut": "pink-floyd/animals-columbia-legacy/dogs",
+          "blurbs": [],
+          "artistId": "art.69132",
+          "artistName": "Pink Floyd",
+          "albumName": "Animals",
+          "formats": [
+            {
+              "type": "format",
+              "bitrate": 320,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 192,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 128,
+              "name": "MP3",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 64,
+              "name": "AAC PLUS",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "losslessFormats": [
+            {
+              "type": "format",
+              "bitrate": 44100,
+              "name": "FLAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "albumId": "alb.211396482",
+          "contributors": {
+            "primaryArtist": "art.69132"
+          },
+          "links": {
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "albums": {
+              "ids": [
+                "alb.211396482"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/alb.211396482"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196500",
+                "tag.180995702"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196500,tag.180995702"
+            }
+          },
+          "previewURL": "https://listen.hs.llnwd.net/g3/prvw/0/6/1/0/3/1239030160.mp3"
+        },
+        {
+          "type": "track",
+          "id": "tra.211401087",
+          "index": 6,
+          "disc": 1,
+          "href": "https://api.napster.com/v2.2/tracks/tra.211401087",
+          "playbackSeconds": 334,
+          "isExplicit": false,
+          "isStreamable": true,
+          "isAvailableInHiRes": false,
+          "name": "Mother",
+          "isrc": "GBN9Y1100100",
+          "shortcut": "pink-floyd/the-wall-columbia-legacy/mother",
+          "blurbs": [],
+          "artistId": "art.69132",
+          "artistName": "Pink Floyd",
+          "albumName": "The Wall",
+          "formats": [
+            {
+              "type": "format",
+              "bitrate": 320,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 192,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 128,
+              "name": "MP3",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 64,
+              "name": "AAC PLUS",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "losslessFormats": [
+            {
+              "type": "format",
+              "bitrate": 44100,
+              "name": "FLAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "albumId": "alb.211401081",
+          "contributors": {
+            "primaryArtist": "art.69132"
+          },
+          "links": {
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "albums": {
+              "ids": [
+                "alb.211401081"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/alb.211401081"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44",
+                "g.124"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44,g.124"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196500",
+                "tag.180995702"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196500,tag.180995702"
+            }
+          },
+          "previewURL": "https://listen.hs.llnwd.net/g3/prvw/1/2/2/2/1/1239012221.mp3"
+        },
+        {
+          "type": "track",
+          "id": "tra.211401050",
+          "index": 3,
+          "disc": 1,
+          "href": "https://api.napster.com/v2.2/tracks/tra.211401050",
+          "playbackSeconds": 367,
+          "isExplicit": false,
+          "isStreamable": true,
+          "isAvailableInHiRes": false,
+          "name": "Fearless",
+          "isrc": "GBN9Y1100062",
+          "shortcut": "pink-floyd/meddle-columbia-legacy/fearless",
+          "blurbs": [],
+          "artistId": "art.69132",
+          "artistName": "Pink Floyd",
+          "albumName": "Meddle",
+          "formats": [
+            {
+              "type": "format",
+              "bitrate": 320,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 192,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 128,
+              "name": "MP3",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 64,
+              "name": "AAC PLUS",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "losslessFormats": [
+            {
+              "type": "format",
+              "bitrate": 44100,
+              "name": "FLAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "albumId": "alb.211401047",
+          "contributors": {
+            "primaryArtist": "art.69132"
+          },
+          "links": {
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "albums": {
+              "ids": [
+                "alb.211401047"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/alb.211401047"
+            },
+            "genres": {
+              "ids": [
+                "g.44"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.44"
+            },
+            "tags": {
+              "ids": [
+                "tag.180995702"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.180995702"
+            }
+          },
+          "previewURL": "https://listen.hs.llnwd.net/g3/prvw/0/3/8/7/1/1281817830.mp3"
+        },
+        {
+          "type": "track",
+          "id": "tra.211401090",
+          "index": 9,
+          "disc": 1,
+          "href": "https://api.napster.com/v2.2/tracks/tra.211401090",
+          "playbackSeconds": 209,
+          "isExplicit": false,
+          "isStreamable": true,
+          "isAvailableInHiRes": false,
+          "name": "Young Lust",
+          "isrc": "GBN9Y1100103",
+          "shortcut": "pink-floyd/the-wall-columbia-legacy/young-lust",
+          "blurbs": [],
+          "artistId": "art.69132",
+          "artistName": "Pink Floyd",
+          "albumName": "The Wall",
+          "formats": [
+            {
+              "type": "format",
+              "bitrate": 320,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 192,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 128,
+              "name": "MP3",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 64,
+              "name": "AAC PLUS",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "losslessFormats": [
+            {
+              "type": "format",
+              "bitrate": 44100,
+              "name": "FLAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "albumId": "alb.211401081",
+          "contributors": {
+            "primaryArtist": "art.69132"
+          },
+          "links": {
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "albums": {
+              "ids": [
+                "alb.211401081"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/alb.211401081"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44",
+                "g.124"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44,g.124"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196500",
+                "tag.180995702"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196500,tag.180995702"
+            }
+          },
+          "previewURL": "https://listen.hs.llnwd.net/g3/prvw/9/9/1/9/6/1282769199.mp3"
+        },
+        {
+          "type": "track",
+          "id": "tra.211396486",
+          "index": 4,
+          "disc": 1,
+          "href": "https://api.napster.com/v2.2/tracks/tra.211396486",
+          "playbackSeconds": 619,
+          "isExplicit": false,
+          "isStreamable": true,
+          "isAvailableInHiRes": false,
+          "name": "Sheep",
+          "isrc": "GBN9Y1100093",
+          "shortcut": "pink-floyd/animals-columbia-legacy/sheep",
+          "blurbs": [],
+          "artistId": "art.69132",
+          "artistName": "Pink Floyd",
+          "albumName": "Animals",
+          "formats": [
+            {
+              "type": "format",
+              "bitrate": 320,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 192,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 128,
+              "name": "MP3",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 64,
+              "name": "AAC PLUS",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "losslessFormats": [
+            {
+              "type": "format",
+              "bitrate": 44100,
+              "name": "FLAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "albumId": "alb.211396482",
+          "contributors": {
+            "primaryArtist": "art.69132"
+          },
+          "links": {
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "albums": {
+              "ids": [
+                "alb.211396482"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/alb.211396482"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196500",
+                "tag.180995702"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196500,tag.180995702"
+            }
+          },
+          "previewURL": "https://listen.hs.llnwd.net/g3/prvw/0/7/0/4/0/1239004070.mp3"
+        },
+        {
+          "type": "track",
+          "id": "tra.211401115",
+          "index": 6,
+          "disc": 1,
+          "href": "https://api.napster.com/v2.2/tracks/tra.211401115",
+          "playbackSeconds": 382,
+          "isExplicit": false,
+          "isStreamable": true,
+          "isAvailableInHiRes": false,
+          "name": "Money",
+          "isrc": "GBN9Y1100081",
+          "shortcut": "pink-floyd/the-dark-side-of-the-moon-columbia-legacy/money",
+          "blurbs": [],
+          "artistId": "art.69132",
+          "artistName": "Pink Floyd",
+          "albumName": "The Dark Side of the Moon",
+          "formats": [
+            {
+              "type": "format",
+              "bitrate": 320,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 192,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 128,
+              "name": "MP3",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 64,
+              "name": "AAC PLUS",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "losslessFormats": [
+            {
+              "type": "format",
+              "bitrate": 44100,
+              "name": "FLAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "albumId": "alb.211401109",
+          "contributors": {
+            "primaryArtist": "art.69132"
+          },
+          "links": {
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "albums": {
+              "ids": [
+                "alb.211401109"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/alb.211401109"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44",
+                "g.5"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44,g.5"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196500",
+                "tag.180995702",
+                "tag.152196498"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196500,tag.180995702,tag.152196498"
+            }
+          },
+          "previewURL": "https://listen.hs.llnwd.net/g3/prvw/8/4/2/8/2/1240028248.mp3"
+        },
+        {
+          "type": "track",
+          "id": "tra.211401113",
+          "index": 4,
+          "disc": 1,
+          "href": "https://api.napster.com/v2.2/tracks/tra.211401113",
+          "playbackSeconds": 413,
+          "isExplicit": false,
+          "isStreamable": true,
+          "isAvailableInHiRes": false,
+          "name": "Time",
+          "isrc": "GBN9Y1100079",
+          "shortcut": "pink-floyd/the-dark-side-of-the-moon-columbia-legacy/time",
+          "blurbs": [],
+          "artistId": "art.69132",
+          "artistName": "Pink Floyd",
+          "albumName": "The Dark Side of the Moon",
+          "formats": [
+            {
+              "type": "format",
+              "bitrate": 320,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 192,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 128,
+              "name": "MP3",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 64,
+              "name": "AAC PLUS",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "losslessFormats": [
+            {
+              "type": "format",
+              "bitrate": 44100,
+              "name": "FLAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "albumId": "alb.211401109",
+          "contributors": {
+            "primaryArtist": "art.69132"
+          },
+          "links": {
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "albums": {
+              "ids": [
+                "alb.211401109"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/alb.211401109"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44",
+                "g.5"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44,g.5"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196500",
+                "tag.180995702",
+                "tag.152196498"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196500,tag.180995702,tag.152196498"
+            }
+          },
+          "previewURL": "https://listen.hs.llnwd.net/g3/prvw/7/2/7/7/2/1240027727.mp3"
+        },
+        {
+          "type": "track",
+          "id": "tra.211401053",
+          "index": 6,
+          "disc": 1,
+          "href": "https://api.napster.com/v2.2/tracks/tra.211401053",
+          "playbackSeconds": 1412,
+          "isExplicit": false,
+          "isStreamable": true,
+          "isAvailableInHiRes": false,
+          "name": "Echoes",
+          "isrc": "GBN9Y1100065",
+          "shortcut": "pink-floyd/meddle-columbia-legacy/echoes",
+          "blurbs": [],
+          "artistId": "art.69132",
+          "artistName": "Pink Floyd",
+          "albumName": "Meddle",
+          "formats": [
+            {
+              "type": "format",
+              "bitrate": 320,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 192,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 128,
+              "name": "MP3",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 64,
+              "name": "AAC PLUS",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "losslessFormats": [
+            {
+              "type": "format",
+              "bitrate": 44100,
+              "name": "FLAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "albumId": "alb.211401047",
+          "contributors": {
+            "primaryArtist": "art.69132"
+          },
+          "links": {
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "albums": {
+              "ids": [
+                "alb.211401047"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/alb.211401047"
+            },
+            "genres": {
+              "ids": [
+                "g.44"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.44"
+            },
+            "tags": {
+              "ids": [
+                "tag.180995702"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.180995702"
+            }
+          },
+          "previewURL": "https://listen.hs.llnwd.net/g3/prvw/8/6/8/3/2/1240023868.mp3"
+        },
+        {
+          "type": "track",
+          "id": "tra.211401089",
+          "index": 8,
+          "disc": 1,
+          "href": "https://api.napster.com/v2.2/tracks/tra.211401089",
+          "playbackSeconds": 127,
+          "isExplicit": false,
+          "isStreamable": true,
+          "isAvailableInHiRes": false,
+          "name": "Empty Spaces",
+          "isrc": "GBN9Y1100102",
+          "shortcut": "pink-floyd/the-wall-columbia-legacy/empty-spaces",
+          "blurbs": [],
+          "artistId": "art.69132",
+          "artistName": "Pink Floyd",
+          "albumName": "The Wall",
+          "formats": [
+            {
+              "type": "format",
+              "bitrate": 320,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 192,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 128,
+              "name": "MP3",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 64,
+              "name": "AAC PLUS",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "losslessFormats": [
+            {
+              "type": "format",
+              "bitrate": 44100,
+              "name": "FLAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "albumId": "alb.211401081",
+          "contributors": {
+            "primaryArtist": "art.69132"
+          },
+          "links": {
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "albums": {
+              "ids": [
+                "alb.211401081"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/alb.211401081"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44",
+                "g.124"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44,g.124"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196500",
+                "tag.180995702"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196500,tag.180995702"
+            }
+          },
+          "previewURL": "https://listen.hs.llnwd.net/g3/prvw/3/5/0/4/0/1239004053.mp3"
+        },
+        {
+          "type": "track",
+          "id": "tra.211401097",
+          "index": 3,
+          "disc": 2,
+          "href": "https://api.napster.com/v2.2/tracks/tra.211401097",
+          "playbackSeconds": 203,
+          "isExplicit": false,
+          "isStreamable": true,
+          "isAvailableInHiRes": false,
+          "name": "Nobody Home",
+          "isrc": "GBN9Y1100110",
+          "shortcut": "pink-floyd/the-wall-columbia-legacy/nobody-home",
+          "blurbs": [],
+          "artistId": "art.69132",
+          "artistName": "Pink Floyd",
+          "albumName": "The Wall",
+          "formats": [
+            {
+              "type": "format",
+              "bitrate": 320,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 192,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 128,
+              "name": "MP3",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 64,
+              "name": "AAC PLUS",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "losslessFormats": [
+            {
+              "type": "format",
+              "bitrate": 44100,
+              "name": "FLAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "albumId": "alb.211401081",
+          "contributors": {
+            "primaryArtist": "art.69132"
+          },
+          "links": {
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "albums": {
+              "ids": [
+                "alb.211401081"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/alb.211401081"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44",
+                "g.124"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44,g.124"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196500",
+                "tag.180995702"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196500,tag.180995702"
+            }
+          },
+          "previewURL": "https://listen.hs.llnwd.net/g3/prvw/8/4/4/7/6/1282767448.mp3"
+        },
+        {
+          "type": "track",
+          "id": "tra.211401098",
+          "index": 4,
+          "disc": 2,
+          "href": "https://api.napster.com/v2.2/tracks/tra.211401098",
+          "playbackSeconds": 93,
+          "isExplicit": false,
+          "isStreamable": true,
+          "isAvailableInHiRes": false,
+          "name": "Vera",
+          "isrc": "GBN9Y1100111",
+          "shortcut": "pink-floyd/the-wall-columbia-legacy/vera",
+          "blurbs": [],
+          "artistId": "art.69132",
+          "artistName": "Pink Floyd",
+          "albumName": "The Wall",
+          "formats": [
+            {
+              "type": "format",
+              "bitrate": 320,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 192,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 128,
+              "name": "MP3",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 64,
+              "name": "AAC PLUS",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "losslessFormats": [
+            {
+              "type": "format",
+              "bitrate": 44100,
+              "name": "FLAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "albumId": "alb.211401081",
+          "contributors": {
+            "primaryArtist": "art.69132"
+          },
+          "links": {
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "albums": {
+              "ids": [
+                "alb.211401081"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/alb.211401081"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44",
+                "g.124"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44,g.124"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196500",
+                "tag.180995702"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196500,tag.180995702"
+            }
+          },
+          "previewURL": "https://listen.hs.llnwd.net/g3/prvw/5/7/2/1/2/1239021275.mp3"
+        },
+        {
+          "type": "track",
+          "id": "tra.211401088",
+          "index": 7,
+          "disc": 1,
+          "href": "https://api.napster.com/v2.2/tracks/tra.211401088",
+          "playbackSeconds": 167,
+          "isExplicit": false,
+          "isStreamable": true,
+          "isAvailableInHiRes": false,
+          "name": "Goodbye Blue Sky",
+          "isrc": "GBN9Y1100101",
+          "shortcut": "pink-floyd/the-wall-columbia-legacy/goodbye-blue-sky",
+          "blurbs": [],
+          "artistId": "art.69132",
+          "artistName": "Pink Floyd",
+          "albumName": "The Wall",
+          "formats": [
+            {
+              "type": "format",
+              "bitrate": 320,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 192,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 128,
+              "name": "MP3",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 64,
+              "name": "AAC PLUS",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "losslessFormats": [
+            {
+              "type": "format",
+              "bitrate": 44100,
+              "name": "FLAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "albumId": "alb.211401081",
+          "contributors": {
+            "primaryArtist": "art.69132"
+          },
+          "links": {
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "albums": {
+              "ids": [
+                "alb.211401081"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/alb.211401081"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44",
+                "g.124"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44,g.124"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196500",
+                "tag.180995702"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196500,tag.180995702"
+            }
+          },
+          "previewURL": "https://listen.hs.llnwd.net/g3/prvw/9/8/2/7/6/1282767289.mp3"
+        },
+        {
+          "type": "track",
+          "id": "tra.569028614",
+          "index": 1,
+          "disc": 1,
+          "href": "https://api.napster.com/v2.2/tracks/tra.569028614",
+          "playbackSeconds": 551,
+          "isExplicit": false,
+          "isStreamable": true,
+          "isAvailableInHiRes": false,
+          "name": "Sorrow (Live at Knebworth 1990 [2021 Edit])",
+          "isrc": "GBN9X2100004",
+          "upc": "886449125869",
+          "shortcut": "pink-floyd/sorrow-live-at-knebworth-1990-2021-edit/sorrow-live-at-knebworth-1990-2021-edit",
+          "blurbs": [],
+          "artistId": "art.69132",
+          "artistName": "Pink Floyd",
+          "albumName": "Sorrow (Live at Knebworth 1990 [2021 Edit])",
+          "formats": [
+            {
+              "type": "format",
+              "bitrate": 128,
+              "name": "MP3",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 320,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 192,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 64,
+              "name": "AAC PLUS",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "losslessFormats": [
+            {
+              "type": "format",
+              "bitrate": 44100,
+              "name": "FLAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "albumId": "alb.569028612",
+          "contributors": {
+            "producer": "art.26955085",
+            "engineer": "art.5002",
+            "primaryArtist": "art.69132",
+            "composer": "art.5002",
+            "featuredPerformer": "art.69132"
+          },
+          "links": {
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "albums": {
+              "ids": [
+                "alb.569028612"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/alb.569028612"
+            },
+            "composers": {
+              "ids": [
+                "art.5002"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.5002"
+            },
+            "genres": {
+              "ids": [
+                "g.44",
+                "g.42",
+                "g.5",
+                "g.153",
+                "g.115",
+                "g.383",
+                "g.246"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.44,g.42,g.5,g.153,g.115,g.383,g.246"
+            },
+            "tags": {
+              "ids": [
+                "tag.180995702",
+                "tag.152196500",
+                "tag.152196498",
+                "tag.152196495",
+                "tag.152196578"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.180995702,tag.152196500,tag.152196498,tag.152196495,tag.152196578"
+            }
+          },
+          "previewURL": "https://listen.hs.llnwd.net/g3/prvw/4/9/8/0/5/2354150894.mp3"
+        },
+        {
+          "type": "track",
+          "id": "tra.211401106",
+          "index": 12,
+          "disc": 2,
+          "href": "https://api.napster.com/v2.2/tracks/tra.211401106",
+          "playbackSeconds": 318,
+          "isExplicit": false,
+          "isStreamable": true,
+          "isAvailableInHiRes": false,
+          "name": "The Trial",
+          "isrc": "GBN9Y1100119",
+          "shortcut": "pink-floyd/the-wall-columbia-legacy/the-trial",
+          "blurbs": [],
+          "artistId": "art.69132",
+          "artistName": "Pink Floyd",
+          "albumName": "The Wall",
+          "formats": [
+            {
+              "type": "format",
+              "bitrate": 320,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 192,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 128,
+              "name": "MP3",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 64,
+              "name": "AAC PLUS",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "losslessFormats": [
+            {
+              "type": "format",
+              "bitrate": 44100,
+              "name": "FLAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "albumId": "alb.211401081",
+          "contributors": {
+            "primaryArtist": "art.69132"
+          },
+          "links": {
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "albums": {
+              "ids": [
+                "alb.211401081"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/alb.211401081"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44",
+                "g.124"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44,g.124"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196500",
+                "tag.180995702"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196500,tag.180995702"
+            }
+          },
+          "previewURL": "https://listen.hs.llnwd.net/g3/prvw/0/6/3/7/4/1283447360.mp3"
+        },
+        {
+          "type": "track",
+          "id": "tra.211401105",
+          "index": 11,
+          "disc": 2,
+          "href": "https://api.napster.com/v2.2/tracks/tra.211401105",
+          "playbackSeconds": 30,
+          "isExplicit": false,
+          "isStreamable": true,
+          "isAvailableInHiRes": false,
+          "name": "Stop",
+          "isrc": "GBN9Y1100118",
+          "shortcut": "pink-floyd/the-wall-columbia-legacy/stop",
+          "blurbs": [],
+          "artistId": "art.69132",
+          "artistName": "Pink Floyd",
+          "albumName": "The Wall",
+          "formats": [
+            {
+              "type": "format",
+              "bitrate": 320,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 192,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 128,
+              "name": "MP3",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 64,
+              "name": "AAC PLUS",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "losslessFormats": [
+            {
+              "type": "format",
+              "bitrate": 44100,
+              "name": "FLAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "albumId": "alb.211401081",
+          "contributors": {
+            "primaryArtist": "art.69132"
+          },
+          "links": {
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "albums": {
+              "ids": [
+                "alb.211401081"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/alb.211401081"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44",
+                "g.124"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44,g.124"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196500",
+                "tag.180995702"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196500,tag.180995702"
+            }
+          },
+          "previewURL": "https://listen.hs.llnwd.net/g3/prvw/3/1/1/7/4/1283447113.mp3"
+        },
+        {
+          "type": "track",
+          "id": "tra.211401082",
+          "index": 1,
+          "disc": 1,
+          "href": "https://api.napster.com/v2.2/tracks/tra.211401082",
+          "playbackSeconds": 198,
+          "isExplicit": false,
+          "isStreamable": true,
+          "isAvailableInHiRes": false,
+          "name": "In the Flesh?",
+          "isrc": "GBN9Y1100095",
+          "shortcut": "pink-floyd/the-wall-columbia-legacy/in-the-flesh",
+          "blurbs": [],
+          "artistId": "art.69132",
+          "artistName": "Pink Floyd",
+          "albumName": "The Wall",
+          "formats": [
+            {
+              "type": "format",
+              "bitrate": 320,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 192,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 128,
+              "name": "MP3",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 64,
+              "name": "AAC PLUS",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "losslessFormats": [
+            {
+              "type": "format",
+              "bitrate": 44100,
+              "name": "FLAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "albumId": "alb.211401081",
+          "contributors": {
+            "primaryArtist": "art.69132"
+          },
+          "links": {
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "albums": {
+              "ids": [
+                "alb.211401081"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/alb.211401081"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44",
+                "g.124"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44,g.124"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196500",
+                "tag.180995702"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196500,tag.180995702"
+            }
+          },
+          "previewURL": "https://listen.hs.llnwd.net/g3/prvw/5/2/6/1/1/1282311625.mp3"
+        },
+        {
+          "type": "track",
+          "id": "tra.211401083",
+          "index": 2,
+          "disc": 1,
+          "href": "https://api.napster.com/v2.2/tracks/tra.211401083",
+          "playbackSeconds": 146,
+          "isExplicit": false,
+          "isStreamable": true,
+          "isAvailableInHiRes": false,
+          "name": "The Thin Ice",
+          "isrc": "GBN9Y1100096",
+          "shortcut": "pink-floyd/the-wall-columbia-legacy/the-thin-ice",
+          "blurbs": [],
+          "artistId": "art.69132",
+          "artistName": "Pink Floyd",
+          "albumName": "The Wall",
+          "formats": [
+            {
+              "type": "format",
+              "bitrate": 320,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 192,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 128,
+              "name": "MP3",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 64,
+              "name": "AAC PLUS",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "losslessFormats": [
+            {
+              "type": "format",
+              "bitrate": 44100,
+              "name": "FLAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "albumId": "alb.211401081",
+          "contributors": {
+            "primaryArtist": "art.69132"
+          },
+          "links": {
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "albums": {
+              "ids": [
+                "alb.211401081"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/alb.211401081"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44",
+                "g.124"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44,g.124"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196500",
+                "tag.180995702"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196500,tag.180995702"
+            }
+          },
+          "previewURL": "https://listen.hs.llnwd.net/g3/prvw/1/7/7/1/1/1282311771.mp3"
+        },
+        {
+          "type": "track",
+          "id": "tra.211401119",
+          "index": 10,
+          "disc": 1,
+          "href": "https://api.napster.com/v2.2/tracks/tra.211401119",
+          "playbackSeconds": 130,
+          "isExplicit": false,
+          "isStreamable": true,
+          "isAvailableInHiRes": false,
+          "name": "Eclipse",
+          "isrc": "GBN9Y1100084",
+          "shortcut": "pink-floyd/the-dark-side-of-the-moon-columbia-legacy/eclipse",
+          "blurbs": [],
+          "artistId": "art.69132",
+          "artistName": "Pink Floyd",
+          "albumName": "The Dark Side of the Moon",
+          "formats": [
+            {
+              "type": "format",
+              "bitrate": 320,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 192,
+              "name": "AAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 128,
+              "name": "MP3",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            },
+            {
+              "type": "format",
+              "bitrate": 64,
+              "name": "AAC PLUS",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "losslessFormats": [
+            {
+              "type": "format",
+              "bitrate": 44100,
+              "name": "FLAC",
+              "sampleBits": 16,
+              "sampleRate": 44100
+            }
+          ],
+          "albumId": "alb.211401109",
+          "contributors": {
+            "primaryArtist": "art.69132"
+          },
+          "links": {
+            "artists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            },
+            "albums": {
+              "ids": [
+                "alb.211401109"
+              ],
+              "href": "https://api.napster.com/v2.2/albums/alb.211401109"
+            },
+            "genres": {
+              "ids": [
+                "g.42",
+                "g.44",
+                "g.5"
+              ],
+              "href": "https://api.napster.com/v2.2/genres/g.42,g.44,g.5"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196500",
+                "tag.180995702",
+                "tag.152196498"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196500,tag.180995702,tag.152196498"
+            }
+          },
+          "previewURL": "https://listen.hs.llnwd.net/g3/prvw/0/4/2/7/6/1282767240.mp3"
+        }
+      ],
+      "playlists": [
+        {
+          "type": "playlist",
+          "id": "mp.196221199",
+          "name": "Pink Floyd",
+          "modified": "2018-11-28T15:39:34.000Z",
+          "href": "https://api.napster.com/v2.2/playlists/mp.196221199",
+          "trackCount": 26,
+          "privacy": "public",
+          "images": [
+            {
+              "type": "image",
+              "id": "mp.196221199",
+              "url": "http://direct.napster.com/imageserver/v2/playlists/mp.196221199/artists/images/230x153.jpg",
+              "contentId": "mp.196221199",
+              "width": 230,
+              "height": 153,
+              "isDefault": true,
+              "version": 0,
+              "imageType": "displayImage"
+            }
+          ],
+          "description": "",
+          "favoriteCount": 56,
+          "freePlayCompliant": false,
+          "links": {
+            "members": {
+              "ids": [
+                "1405538C9A04EE7AE050960A38031193"
+              ],
+              "href": "https://api.napster.com/v2.2/members/1405538C9A04EE7AE050960A38031193"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/playlists/mp.196221199/tracks"
+            },
+            "tags": {
+              "ids": []
+            },
+            "sampleArtists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            }
+          }
+        },
+        {
+          "type": "playlist",
+          "id": "mp.223714364",
+          "name": "Pink Floyd",
+          "modified": "2016-09-08T17:28:24.000Z",
+          "href": "https://api.napster.com/v2.2/playlists/mp.223714364",
+          "trackCount": 18,
+          "privacy": "public",
+          "images": [
+            {
+              "type": "image",
+              "id": "mp.223714364",
+              "url": "http://direct.napster.com/imageserver/v2/playlists/mp.223714364/artists/images/230x153.jpg",
+              "contentId": "mp.223714364",
+              "width": 230,
+              "height": 153,
+              "isDefault": true,
+              "version": 0,
+              "imageType": "displayImage"
+            }
+          ],
+          "description": "",
+          "favoriteCount": 29,
+          "freePlayCompliant": false,
+          "links": {
+            "members": {
+              "ids": [
+                "B2D177ED5EDB0312E0430A9603320312"
+              ],
+              "href": "https://api.napster.com/v2.2/members/B2D177ED5EDB0312E0430A9603320312"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/playlists/mp.223714364/tracks"
+            },
+            "tags": {
+              "ids": []
+            },
+            "sampleArtists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            }
+          }
+        },
+        {
+          "type": "playlist",
+          "id": "mp.215843558",
+          "name": "pink floyd",
+          "modified": "2020-06-03T19:13:20.000Z",
+          "href": "https://api.napster.com/v2.2/playlists/mp.215843558",
+          "trackCount": 198,
+          "privacy": "public",
+          "images": [
+            {
+              "type": "image",
+              "id": "mp.215843558",
+              "url": "http://direct.napster.com/imageserver/v2/playlists/mp.215843558/artists/images/230x153.jpg",
+              "contentId": "mp.215843558",
+              "width": 230,
+              "height": 153,
+              "isDefault": true,
+              "version": 0,
+              "imageType": "displayImage"
+            },
+            {
+              "type": "image",
+              "id": "11xCNEf9GZijVC",
+              "url": null,
+              "contentId": "mp.215843558",
+              "width": null,
+              "height": null,
+              "isDefault": false,
+              "version": 1584455519210,
+              "imageType": "giphyImage"
+            }
+          ],
+          "description": "",
+          "favoriteCount": 11,
+          "freePlayCompliant": false,
+          "links": {
+            "members": {
+              "ids": [
+                "E491A99DDA3BACF4E040960A380376CA"
+              ],
+              "href": "https://api.napster.com/v2.2/members/E491A99DDA3BACF4E040960A380376CA"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/playlists/mp.215843558/tracks"
+            },
+            "tags": {
+              "ids": []
+            },
+            "sampleArtists": {
+              "ids": [
+                "art.68413",
+                "art.5002",
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.68413,art.5002,art.69132"
+            }
+          }
+        },
+        {
+          "type": "playlist",
+          "id": "mp.184159991",
+          "name": "Pink Floyd",
+          "modified": "2017-10-29T17:42:07.000Z",
+          "href": "https://api.napster.com/v2.2/playlists/mp.184159991",
+          "trackCount": 70,
+          "privacy": "public",
+          "images": [
+            {
+              "type": "image",
+              "id": "mp.184159991",
+              "url": "http://direct.napster.com/imageserver/v2/playlists/mp.184159991/artists/images/230x153.jpg",
+              "contentId": "mp.184159991",
+              "width": 230,
+              "height": 153,
+              "isDefault": true,
+              "version": 0,
+              "imageType": "displayImage"
+            }
+          ],
+          "description": "",
+          "favoriteCount": 7,
+          "freePlayCompliant": false,
+          "links": {
+            "members": {
+              "ids": [
+                "D32A6B8CE6E91FE2E040960A380304EB"
+              ],
+              "href": "https://api.napster.com/v2.2/members/D32A6B8CE6E91FE2E040960A380304EB"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/playlists/mp.184159991/tracks"
+            },
+            "tags": {
+              "ids": []
+            },
+            "sampleArtists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            }
+          }
+        },
+        {
+          "type": "playlist",
+          "id": "mp.250442920",
+          "name": "Pink Floyd",
+          "modified": "2017-09-21T17:18:09.000Z",
+          "href": "https://api.napster.com/v2.2/playlists/mp.250442920",
+          "trackCount": 4,
+          "privacy": "public",
+          "images": [
+            {
+              "type": "image",
+              "id": "mp.250442920",
+              "url": "http://direct.napster.com/imageserver/v2/playlists/mp.250442920/artists/images/230x153.jpg",
+              "contentId": "mp.250442920",
+              "width": 230,
+              "height": 153,
+              "isDefault": true,
+              "version": 0,
+              "imageType": "displayImage"
+            },
+            {
+              "type": "image",
+              "id": "11xCNEf9GZijVC",
+              "url": null,
+              "contentId": "mp.250442920",
+              "width": null,
+              "height": null,
+              "isDefault": false,
+              "version": 1506014258688,
+              "imageType": "giphyImage"
+            }
+          ],
+          "description": "",
+          "favoriteCount": 4,
+          "freePlayCompliant": false,
+          "links": {
+            "members": {
+              "ids": [
+                "5333B4D080A1DBEEE050960A38036431"
+              ],
+              "href": "https://api.napster.com/v2.2/members/5333B4D080A1DBEEE050960A38036431"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/playlists/mp.250442920/tracks"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196500"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196500"
+            },
+            "sampleArtists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            }
+          }
+        },
+        {
+          "type": "playlist",
+          "id": "mp.231135018",
+          "name": "Pink Floyd",
+          "modified": "2016-10-10T01:49:15.000Z",
+          "href": "https://api.napster.com/v2.2/playlists/mp.231135018",
+          "trackCount": 6,
+          "privacy": "public",
+          "images": [
+            {
+              "type": "image",
+              "id": "mp.231135018",
+              "url": "http://direct.napster.com/imageserver/v2/playlists/mp.231135018/artists/images/230x153.jpg",
+              "contentId": "mp.231135018",
+              "width": 230,
+              "height": 153,
+              "isDefault": true,
+              "version": 0,
+              "imageType": "displayImage"
+            }
+          ],
+          "description": "",
+          "favoriteCount": 3,
+          "freePlayCompliant": false,
+          "links": {
+            "members": {
+              "ids": [
+                "B2D177ECFAF20312E0430A9603320312"
+              ],
+              "href": "https://api.napster.com/v2.2/members/B2D177ECFAF20312E0430A9603320312"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/playlists/mp.231135018/tracks"
+            },
+            "tags": {
+              "ids": []
+            },
+            "sampleArtists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            }
+          }
+        },
+        {
+          "type": "playlist",
+          "id": "mp.251372674",
+          "name": "Pink Floyd",
+          "modified": "2017-10-16T03:00:41.000Z",
+          "href": "https://api.napster.com/v2.2/playlists/mp.251372674",
+          "trackCount": 4,
+          "privacy": "public",
+          "images": [
+            {
+              "type": "image",
+              "id": "mp.251372674",
+              "url": "http://direct.napster.com/imageserver/v2/playlists/mp.251372674/artists/images/230x153.jpg",
+              "contentId": "mp.251372674",
+              "width": 230,
+              "height": 153,
+              "isDefault": true,
+              "version": 0,
+              "imageType": "displayImage"
+            },
+            {
+              "type": "image",
+              "id": "GWFTMmLXe6QBG",
+              "url": null,
+              "contentId": "mp.251372674",
+              "width": null,
+              "height": null,
+              "isDefault": false,
+              "version": 1508885238133,
+              "imageType": "giphyImage"
+            }
+          ],
+          "description": "",
+          "favoriteCount": 3,
+          "freePlayCompliant": false,
+          "links": {
+            "members": {
+              "ids": [
+                "56BAF0B521F4CEA3E050960A38037878"
+              ],
+              "href": "https://api.napster.com/v2.2/members/56BAF0B521F4CEA3E050960A38037878"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/playlists/mp.251372674/tracks"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196500"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196500"
+            },
+            "sampleArtists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            }
+          }
+        },
+        {
+          "type": "playlist",
+          "id": "mp.172986129",
+          "name": "Pink Floyd",
+          "modified": "2016-10-16T17:43:07.000Z",
+          "href": "https://api.napster.com/v2.2/playlists/mp.172986129",
+          "trackCount": 95,
+          "privacy": "public",
+          "images": [
+            {
+              "type": "image",
+              "id": "mp.172986129",
+              "url": "http://direct.napster.com/imageserver/v2/playlists/mp.172986129/artists/images/230x153.jpg",
+              "contentId": "mp.172986129",
+              "width": 230,
+              "height": 153,
+              "isDefault": true,
+              "version": 0,
+              "imageType": "displayImage"
+            }
+          ],
+          "description": "",
+          "favoriteCount": 2,
+          "freePlayCompliant": false,
+          "links": {
+            "members": {
+              "ids": [
+                "A4EB15B355F00280E0430A9603320280"
+              ],
+              "href": "https://api.napster.com/v2.2/members/A4EB15B355F00280E0430A9603320280"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/playlists/mp.172986129/tracks"
+            },
+            "tags": {
+              "ids": []
+            },
+            "sampleArtists": {
+              "ids": [
+                "art.6448",
+                "art.69132",
+                "art.44056"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.6448,art.69132,art.44056"
+            }
+          }
+        },
+        {
+          "type": "playlist",
+          "id": "mp.230673268",
+          "name": "PINK FLOYD",
+          "modified": "2016-10-24T22:41:30.000Z",
+          "href": "https://api.napster.com/v2.2/playlists/mp.230673268",
+          "trackCount": 74,
+          "privacy": "public",
+          "images": [
+            {
+              "type": "image",
+              "id": "mp.230673268",
+              "url": "http://direct.napster.com/imageserver/v2/playlists/mp.230673268/artists/images/230x153.jpg",
+              "contentId": "mp.230673268",
+              "width": 230,
+              "height": 153,
+              "isDefault": true,
+              "version": 0,
+              "imageType": "displayImage"
+            }
+          ],
+          "description": "",
+          "favoriteCount": 2,
+          "freePlayCompliant": false,
+          "links": {
+            "members": {
+              "ids": [
+                "3A4B5269044F0318E050960A380355BE"
+              ],
+              "href": "https://api.napster.com/v2.2/members/3A4B5269044F0318E050960A380355BE"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/playlists/mp.230673268/tracks"
+            },
+            "tags": {
+              "ids": []
+            },
+            "sampleArtists": {
+              "ids": [
+                "art.68413",
+                "art.7318534",
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.68413,art.7318534,art.69132"
+            }
+          }
+        },
+        {
+          "type": "playlist",
+          "id": "mp.243295027",
+          "name": "pink floyd",
+          "modified": "2017-04-20T17:55:51.000Z",
+          "href": "https://api.napster.com/v2.2/playlists/mp.243295027",
+          "trackCount": 98,
+          "privacy": "public",
+          "images": [
+            {
+              "type": "image",
+              "id": "mp.243295027",
+              "url": "http://direct.napster.com/imageserver/v2/playlists/mp.243295027/artists/images/230x153.jpg",
+              "contentId": "mp.243295027",
+              "width": 230,
+              "height": 153,
+              "isDefault": true,
+              "version": 0,
+              "imageType": "displayImage"
+            },
+            {
+              "type": "image",
+              "id": "11xCNEf9GZijVC",
+              "url": null,
+              "contentId": "mp.243295027",
+              "width": null,
+              "height": null,
+              "isDefault": false,
+              "version": 1492710692392,
+              "imageType": "giphyImage"
+            }
+          ],
+          "description": "",
+          "favoriteCount": 1,
+          "freePlayCompliant": false,
+          "links": {
+            "members": {
+              "ids": [
+                "205B40E1358B5750E050960A39033226"
+              ],
+              "href": "https://api.napster.com/v2.2/members/205B40E1358B5750E050960A39033226"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/playlists/mp.243295027/tracks"
+            },
+            "tags": {
+              "ids": []
+            },
+            "sampleArtists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            }
+          }
+        },
+        {
+          "type": "playlist",
+          "id": "mp.251122977",
+          "name": "Pink Floyd",
+          "modified": "2017-10-09T02:46:16.000Z",
+          "href": "https://api.napster.com/v2.2/playlists/mp.251122977",
+          "trackCount": 10,
+          "privacy": "public",
+          "images": [
+            {
+              "type": "image",
+              "id": "mp.251122977",
+              "url": "http://direct.napster.com/imageserver/v2/playlists/mp.251122977/artists/images/230x153.jpg",
+              "contentId": "mp.251122977",
+              "width": 230,
+              "height": 153,
+              "isDefault": true,
+              "version": 0,
+              "imageType": "displayImage"
+            },
+            {
+              "type": "image",
+              "id": "11xCNEf9GZijVC",
+              "url": null,
+              "contentId": "mp.251122977",
+              "width": null,
+              "height": null,
+              "isDefault": false,
+              "version": 1507516825583,
+              "imageType": "giphyImage"
+            }
+          ],
+          "description": "",
+          "favoriteCount": 1,
+          "freePlayCompliant": false,
+          "links": {
+            "members": {
+              "ids": [
+                "531D18D97A2A0D89E050960A38030A61"
+              ],
+              "href": "https://api.napster.com/v2.2/members/531D18D97A2A0D89E050960A38030A61"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/playlists/mp.251122977/tracks"
+            },
+            "tags": {
+              "ids": []
+            },
+            "sampleArtists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            }
+          }
+        },
+        {
+          "type": "playlist",
+          "id": "mp.239902704",
+          "name": "Pink Floyd",
+          "modified": "2017-02-23T01:33:19.000Z",
+          "href": "https://api.napster.com/v2.2/playlists/mp.239902704",
+          "trackCount": 225,
+          "privacy": "public",
+          "images": [
+            {
+              "type": "image",
+              "id": "mp.239902704",
+              "url": "http://direct.napster.com/imageserver/v2/playlists/mp.239902704/artists/images/230x153.jpg",
+              "contentId": "mp.239902704",
+              "width": 230,
+              "height": 153,
+              "isDefault": true,
+              "version": 0,
+              "imageType": "displayImage"
+            }
+          ],
+          "description": "",
+          "favoriteCount": 1,
+          "freePlayCompliant": false,
+          "links": {
+            "members": {
+              "ids": [
+                "3DFBE4F965946AF4E050960A38037B8E"
+              ],
+              "href": "https://api.napster.com/v2.2/members/3DFBE4F965946AF4E050960A38037B8E"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/playlists/mp.239902704/tracks"
+            },
+            "tags": {
+              "ids": []
+            },
+            "sampleArtists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            }
+          }
+        },
+        {
+          "type": "playlist",
+          "id": "mp.255722683",
+          "name": "Pink Floyd",
+          "modified": "2018-02-15T12:40:31.000Z",
+          "href": "https://api.napster.com/v2.2/playlists/mp.255722683",
+          "trackCount": 27,
+          "privacy": "public",
+          "images": [
+            {
+              "type": "image",
+              "id": "mp.255722683",
+              "url": "http://direct.napster.com/imageserver/v2/playlists/mp.255722683/artists/images/230x153.jpg",
+              "contentId": "mp.255722683",
+              "width": 230,
+              "height": 153,
+              "isDefault": true,
+              "version": 0,
+              "imageType": "displayImage"
+            }
+          ],
+          "description": "",
+          "favoriteCount": 1,
+          "freePlayCompliant": false,
+          "links": {
+            "members": {
+              "ids": [
+                "E7E2838F1910142FE040960A3803507A"
+              ],
+              "href": "https://api.napster.com/v2.2/members/E7E2838F1910142FE040960A3803507A"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/playlists/mp.255722683/tracks"
+            },
+            "tags": {
+              "ids": [
+                "tag.180284289",
+                "tag.180995702",
+                "tag.152196424"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.180284289,tag.180995702,tag.152196424"
+            },
+            "sampleArtists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            }
+          }
+        },
+        {
+          "type": "playlist",
+          "id": "mp.225182194",
+          "name": "Pink Floyd",
+          "modified": "2018-09-07T19:25:48.000Z",
+          "href": "https://api.napster.com/v2.2/playlists/mp.225182194",
+          "trackCount": 100,
+          "privacy": "public",
+          "images": [
+            {
+              "type": "image",
+              "id": "mp.225182194",
+              "url": "http://direct.napster.com/imageserver/v2/playlists/mp.225182194/artists/images/230x153.jpg",
+              "contentId": "mp.225182194",
+              "width": 230,
+              "height": 153,
+              "isDefault": true,
+              "version": 0,
+              "imageType": "displayImage"
+            },
+            {
+              "type": "image",
+              "id": "10rLzIBBhYKs2A",
+              "url": null,
+              "contentId": "mp.225182194",
+              "width": null,
+              "height": null,
+              "isDefault": false,
+              "version": 1527278938762,
+              "imageType": "giphyImage"
+            }
+          ],
+          "description": "",
+          "favoriteCount": 1,
+          "freePlayCompliant": false,
+          "links": {
+            "members": {
+              "ids": [
+                "B2D177EB271A0312E0430A9603320312"
+              ],
+              "href": "https://api.napster.com/v2.2/members/B2D177EB271A0312E0430A9603320312"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/playlists/mp.225182194/tracks"
+            },
+            "tags": {
+              "ids": []
+            },
+            "sampleArtists": {
+              "ids": [
+                "art.68413",
+                "art.5002",
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.68413,art.5002,art.69132"
+            }
+          }
+        },
+        {
+          "type": "playlist",
+          "id": "mp.253660242",
+          "name": "Pink floyd",
+          "modified": "2021-03-27T12:19:19.000Z",
+          "href": "https://api.napster.com/v2.2/playlists/mp.253660242",
+          "trackCount": 120,
+          "privacy": "public",
+          "images": [
+            {
+              "type": "image",
+              "id": "mp.253660242",
+              "url": "http://direct.napster.com/imageserver/v2/playlists/mp.253660242/artists/images/230x153.jpg",
+              "contentId": "mp.253660242",
+              "width": 230,
+              "height": 153,
+              "isDefault": true,
+              "version": 0,
+              "imageType": "displayImage"
+            },
+            {
+              "type": "image",
+              "id": "RIMUhOVYx6pVK",
+              "url": null,
+              "contentId": "mp.253660242",
+              "width": null,
+              "height": null,
+              "isDefault": false,
+              "version": 1513724878852,
+              "imageType": "giphyImage"
+            }
+          ],
+          "description": "",
+          "favoriteCount": 1,
+          "freePlayCompliant": false,
+          "links": {
+            "members": {
+              "ids": [
+                "544C4F01FF76361EE050960A3803476B"
+              ],
+              "href": "https://api.napster.com/v2.2/members/544C4F01FF76361EE050960A3803476B"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/playlists/mp.253660242/tracks"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196498",
+                "tag.392047347",
+                "tag.152196578"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196498,tag.392047347,tag.152196578"
+            },
+            "sampleArtists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            }
+          }
+        },
+        {
+          "type": "playlist",
+          "id": "mp.187678868",
+          "name": "Pink Floyd",
+          "modified": "2016-04-06T22:28:49.000Z",
+          "href": "https://api.napster.com/v2.2/playlists/mp.187678868",
+          "trackCount": 11,
+          "privacy": "public",
+          "images": [
+            {
+              "type": "image",
+              "id": "mp.187678868",
+              "url": "http://direct.napster.com/imageserver/v2/playlists/mp.187678868/artists/images/230x153.jpg",
+              "contentId": "mp.187678868",
+              "width": 230,
+              "height": 153,
+              "isDefault": true,
+              "version": 0,
+              "imageType": "displayImage"
+            }
+          ],
+          "description": "",
+          "favoriteCount": 1,
+          "freePlayCompliant": false,
+          "links": {
+            "members": {
+              "ids": [
+                "F350693FADD1CFB9E040960A3803226A"
+              ],
+              "href": "https://api.napster.com/v2.2/members/F350693FADD1CFB9E040960A3803226A"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/playlists/mp.187678868/tracks"
+            },
+            "tags": {
+              "ids": []
+            },
+            "sampleArtists": {
+              "ids": [
+                "art.5002",
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.5002,art.69132"
+            }
+          }
+        },
+        {
+          "type": "playlist",
+          "id": "mp.254915841",
+          "name": "Pink Floyd",
+          "modified": "2018-01-23T03:09:44.000Z",
+          "href": "https://api.napster.com/v2.2/playlists/mp.254915841",
+          "trackCount": 4,
+          "privacy": "public",
+          "images": [
+            {
+              "type": "image",
+              "id": "mp.254915841",
+              "url": "http://direct.napster.com/imageserver/v2/playlists/mp.254915841/artists/images/230x153.jpg",
+              "contentId": "mp.254915841",
+              "width": 230,
+              "height": 153,
+              "isDefault": true,
+              "version": 0,
+              "imageType": "displayImage"
+            },
+            {
+              "type": "image",
+              "id": "GWFTMmLXe6QBG",
+              "url": null,
+              "contentId": "mp.254915841",
+              "width": null,
+              "height": null,
+              "isDefault": false,
+              "version": 1516676982359,
+              "imageType": "giphyImage"
+            }
+          ],
+          "description": "",
+          "favoriteCount": 1,
+          "freePlayCompliant": false,
+          "links": {
+            "members": {
+              "ids": [
+                "62F3AF5081368DA0E050960A55032277"
+              ],
+              "href": "https://api.napster.com/v2.2/members/62F3AF5081368DA0E050960A55032277"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/playlists/mp.254915841/tracks"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196500"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196500"
+            },
+            "sampleArtists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            }
+          }
+        },
+        {
+          "type": "playlist",
+          "id": "mp.229470143",
+          "name": "Pink Floyd",
+          "modified": "2017-04-19T21:43:05.000Z",
+          "href": "https://api.napster.com/v2.2/playlists/mp.229470143",
+          "trackCount": 79,
+          "privacy": "public",
+          "images": [
+            {
+              "type": "image",
+              "id": "mp.229470143",
+              "url": "http://direct.napster.com/imageserver/v2/playlists/mp.229470143/artists/images/230x153.jpg",
+              "contentId": "mp.229470143",
+              "width": 230,
+              "height": 153,
+              "isDefault": true,
+              "version": 0,
+              "imageType": "displayImage"
+            }
+          ],
+          "description": "",
+          "favoriteCount": 1,
+          "freePlayCompliant": false,
+          "links": {
+            "members": {
+              "ids": [
+                "0EE9C4F9680FDC6BE050960A38037E63"
+              ],
+              "href": "https://api.napster.com/v2.2/members/0EE9C4F9680FDC6BE050960A38037E63"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/playlists/mp.229470143/tracks"
+            },
+            "tags": {
+              "ids": []
+            },
+            "sampleArtists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            }
+          }
+        },
+        {
+          "type": "playlist",
+          "id": "mp.253759080",
+          "name": "Pink Floyd",
+          "modified": "2018-01-15T02:56:39.000Z",
+          "href": "https://api.napster.com/v2.2/playlists/mp.253759080",
+          "trackCount": 5,
+          "privacy": "public",
+          "images": [
+            {
+              "type": "image",
+              "id": "mp.253759080",
+              "url": "http://direct.napster.com/imageserver/v2/playlists/mp.253759080/artists/images/230x153.jpg",
+              "contentId": "mp.253759080",
+              "width": 230,
+              "height": 153,
+              "isDefault": true,
+              "version": 0,
+              "imageType": "displayImage"
+            },
+            {
+              "type": "image",
+              "id": "VSA0ufgsQZVAc",
+              "url": null,
+              "contentId": "mp.253759080",
+              "width": null,
+              "height": null,
+              "isDefault": false,
+              "version": 1513966010514,
+              "imageType": "giphyImage"
+            }
+          ],
+          "description": "",
+          "favoriteCount": 1,
+          "freePlayCompliant": false,
+          "links": {
+            "members": {
+              "ids": [
+                "60DB5BF17DB2E758E050960A55030B01"
+              ],
+              "href": "https://api.napster.com/v2.2/members/60DB5BF17DB2E758E050960A55030B01"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/playlists/mp.253759080/tracks"
+            },
+            "tags": {
+              "ids": [
+                "tag.152196500"
+              ],
+              "href": "https://api.napster.com/v2.2/tags/tag.152196500"
+            },
+            "sampleArtists": {
+              "ids": [
+                "art.69132"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.69132"
+            }
+          }
+        },
+        {
+          "type": "playlist",
+          "id": "mp.177991290",
+          "name": "Pink Floyd",
+          "modified": "2018-07-20T11:05:26.000Z",
+          "href": "https://api.napster.com/v2.2/playlists/mp.177991290",
+          "trackCount": 439,
+          "privacy": "public",
+          "images": [
+            {
+              "type": "image",
+              "id": "mp.177991290",
+              "url": "http://direct.napster.com/imageserver/v2/playlists/mp.177991290/artists/images/230x153.jpg",
+              "contentId": "mp.177991290",
+              "width": 230,
+              "height": 153,
+              "isDefault": true,
+              "version": 0,
+              "imageType": "displayImage"
+            }
+          ],
+          "description": "",
+          "favoriteCount": 1,
+          "freePlayCompliant": false,
+          "links": {
+            "members": {
+              "ids": [
+                "BBDB71141305B034E040960A39036709"
+              ],
+              "href": "https://api.napster.com/v2.2/members/BBDB71141305B034E040960A39036709"
+            },
+            "tracks": {
+              "href": "https://api.napster.com/v2.2/playlists/mp.177991290/tracks"
+            },
+            "tags": {
+              "ids": []
+            },
+            "sampleArtists": {
+              "ids": [
+                "art.46754338",
+                "art.69132",
+                "art.1844"
+              ],
+              "href": "https://api.napster.com/v2.2/artists/art.46754338,art.69132,art.1844"
+            }
+          }
+        }
+      ]
+    },
+    "order": [
+      "art.69132",
+      "tra.211401100",
+      "tra.211401095",
+      "tra.211396484",
+      "tra.211401087",
+      "tra.211401050",
+      "tra.211401090",
+      "tra.211396486",
+      "tra.211401115",
+      "tra.211401113",
+      "tra.211401053",
+      "tra.211401089",
+      "tra.211401097",
+      "alb.211396482",
+      "tra.211401098",
+      "alb.262439",
+      "tra.211401088",
+      "tra.569028614",
+      "tra.211401106",
+      "alb.211401047",
+      "tra.211401105",
+      "tra.211401082",
+      "tra.211401083",
+      "alb.211401081",
+      "tra.211401119",
+      "alb.569028612",
+      "alb.211363534",
+      "alb.211396465",
+      "alb.211396509",
+      "alb.211363562",
+      "alb.211401109",
+      "alb.211396502",
+      "alb.211365160",
+      "alb.211405642",
+      "alb.211405616",
+      "alb.211401055",
+      "alb.45160938",
+      "alb.167565268",
+      "alb.211359947",
+      "alb.211401068",
+      "art.45160935",
+      "art.66584681",
+      "art.7304875",
+      "art.129421894",
+      "art.214718952",
+      "art.225982466",
+      "art.290569881",
+      "art.47608626",
+      "art.215716791",
+      "art.22189724",
+      "art.188237409",
+      "art.35292243",
+      "art.36167",
+      "art.29725057",
+      "art.57562516",
+      "art.45180294",
+      "art.407914064",
+      "art.321582842",
+      "art.315545718",
+      "mp.196221199",
+      "mp.223714364",
+      "mp.215843558",
+      "mp.184159991",
+      "mp.250442920",
+      "mp.231135018",
+      "mp.251372674",
+      "mp.172986129",
+      "mp.230673268",
+      "mp.243295027",
+      "mp.251122977",
+      "mp.239902704",
+      "mp.255722683",
+      "mp.225182194",
+      "mp.253660242",
+      "mp.187678868",
+      "mp.254915841",
+      "mp.229470143",
+      "mp.253759080",
+      "mp.177991290"
+    ]
+  }
+}
