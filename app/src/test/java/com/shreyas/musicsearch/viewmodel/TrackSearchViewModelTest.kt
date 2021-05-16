@@ -97,8 +97,6 @@ class TrackSearchViewModelTest : BaseViewModelTest() {
             viewModel.fetchTrackSearchList("pink floyd")
 
             assertThat(viewModel.trackSearchList.value).isEmpty()
-
-            verify(repository).getTrackSearchList(anyString())
         }
     }
 
